@@ -113,3 +113,558 @@ Received Import Request.
   path: Assets/Samples/ProBuilder/5.0.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat
   artifactKey: Guid(25a9fb42d361f46ad89221f6d301e96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Samples/ProBuilder/5.0.3/Universal Render Pipeline Support/Material/ProBuilder Default URP.mat using Guid(25a9fb42d361f46ad89221f6d301e96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b269a39d57e7aa9be3a38a969f207c') in 0.872727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1411.042507 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcc68737208a1d7a8581e190ec11b99') in 0.008263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.037464 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(1162f186f25cab442b3b073af905bd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(1162f186f25cab442b3b073af905bd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c41c7e3faa2eb13a9a10474b9dba655') in 0.007265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.164635 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de0cbf353736738c4a222c8f37a9acd') in 0.070865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9330225fe040a3161f688835f70adb64') in 0.018712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034ecb0bf4cda52932aa91aaa400c6cd') in 0.018342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a871fa309026e3ba62fb8cecfc05e3b') in 0.014827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.745579 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86be81fa30223f3c578817ade568142') in 0.012487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.874269 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74188875f95477f3fbf1cb2c7294862') in 0.016155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.954613 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cdca793e5b6a7fc66287843988522d1') in 0.017537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.451491 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355a6e3fff460f70b3e23ba7ec856cd1') in 0.012931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.284171 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b05b4734d3fec739042665bbca085a4d') in 0.015816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.006968 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '006136b40e932ed9684eff21ca514259') in 0.012208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.959069 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cccfc394969e2a877320dfca1b062ee0') in 0.013622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.497938 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3eb74ea9b56ebbacb1e0909c33877cf') in 0.013230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.575709 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd01404436ec8233255e284d27df533d') in 0.028498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.587811 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1033599798a17a94d776efd2722414b8') in 0.018011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.174192 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec64541897d03c145e46c9ce4484165') in 0.006956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.812848 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e94ec9a05a4fcbe2a81e8a228a0e3b7') in 0.021078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.760811 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865f257a2e0de1416774f7c70bb5cb9a') in 0.011823 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003442 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.227 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4287 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.6 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5125.
+Total: 5.160300 ms (FindLiveObjects: 0.579900 ms CreateObjectMapping: 0.118900 ms MarkObjects: 2.894500 ms  DeleteObjects: 1.565300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003062 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.185 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.3 MB.
+System memory in use after: 179.6 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5128.
+Total: 6.188600 ms (FindLiveObjects: 0.592400 ms CreateObjectMapping: 0.130300 ms MarkObjects: 3.837000 ms  DeleteObjects: 1.627200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.174521 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed7b7028765f2754fd4bf16db6c2634') in 0.032057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.515085 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c2e284763b27411d0277db38d07883') in 0.007386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.851672 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68a9b82538be87280195ed19e6f3175') in 0.008610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.157196 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5b51eed982751a97c61bda546ab578') in 0.007939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.712148 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc098eac358848b11026fdb13c66c49') in 0.013415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.708645 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80048e9077f756504bd7cc307fbc066') in 0.007010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 100.349371 seconds.
+  path: Assets/Materials/Debris Stone 1.mat
+  artifactKey: Guid(c415c5ff1889b7b40b6c77adcd0cc317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Debris Stone 1.mat using Guid(c415c5ff1889b7b40b6c77adcd0cc317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04a5f2b4b7b1401e4763d11e61ea7d4') in 0.144827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials/Stone Tile Texture.mat
+  artifactKey: Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stone Tile Texture.mat using Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573d1f4345ab3d2e40ba69afc24e302b') in 0.017288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Materials/Skybox Texture.mat
+  artifactKey: Guid(76763b57fc74d144ab6040f2b2be5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox Texture.mat using Guid(76763b57fc74d144ab6040f2b2be5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02218bac3ed2c038ccee652c5e56f5f3') in 0.015212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Materials/Debris Stone 2.mat
+  artifactKey: Guid(fb25a2566459e114089ed63fea45df69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Debris Stone 2.mat using Guid(fb25a2566459e114089ed63fea45df69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5eddc3b210db2dbc505fc448132b145') in 0.023357 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.9 MB.
+System memory in use after: 182.2 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5251.
+Total: 4.775000 ms (FindLiveObjects: 0.459200 ms CreateObjectMapping: 0.117500 ms MarkObjects: 2.899700 ms  DeleteObjects: 1.297600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 232.717151 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce46a336bc55dd41a69a4e55b670992') in 0.036521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.305388 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca22662f25022c0dcadeb38df78a989') in 0.013330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.817457 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1372b9576dbb99eae60d95edc85187') in 0.036033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.848826 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00464097fab64216ca54ae1b5f3f3b7d') in 0.015816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.067122 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518a5cc44b37cb24f8b4e6c18a5e4e08') in 0.015962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.392093 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc88d7f12287a88634ff9f36e26ffb4') in 0.007606 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 184.6 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5338.
+Total: 5.769300 ms (FindLiveObjects: 0.615000 ms CreateObjectMapping: 0.183300 ms MarkObjects: 3.559900 ms  DeleteObjects: 1.409000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 394.819441 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3b6f874fba61b8e0a1949091b1f480') in 0.035803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.312423 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea02225718cfc033f522328a05e2b86b') in 0.011966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.467027 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2b47db40a4e6d61b55b74e5f05ce32') in 0.011543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.021577 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1319b5830354ade1212228141f73d00') in 0.023696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.543351 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dc1275952be6a3533c1b6a48a59211') in 0.014045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.174007 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdbb965fdc522d18d0e0ee9bcef606d') in 0.014122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.317828 seconds.
+  path: Assets/Textures/Debris Stone 1.png
+  artifactKey: Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 1.png using Guid(5d071112f6a40544680c16f6ddabc70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506160b757e41e7ab271aeab356256b3') in 0.017073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.250747 seconds.
+  path: Assets/Textures/Debris Stone 2.png
+  artifactKey: Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debris Stone 2.png using Guid(28b44c24ecfde1545ba5613d406291c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80b88b477b3fcec74e50a2e1b4f1045') in 0.007144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.202689 seconds.
+  path: Assets/Textures/Stone Tile Texture.png
+  artifactKey: Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone Tile Texture.png using Guid(c219e272e0cd8fc46bcfddd4ab9f5663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4dd0989732728eaec654d056eee6b5') in 0.007085 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003003 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.0 MB.
+System memory in use after: 188.3 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5467.
+Total: 5.482100 ms (FindLiveObjects: 0.545600 ms CreateObjectMapping: 0.119900 ms MarkObjects: 3.334100 ms  DeleteObjects: 1.480900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.715916 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff59c6a593a6afe801986997fa410275') in 0.032336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.060030 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed6dd42b9d12f750d5665b379cf0ae3') in 0.006795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.523527 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9f6f523c2cceca9f786ac3b9ccf6db') in 0.006509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.297541 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6d25717a0d7a7ab05ac3c01c73ef01') in 0.006446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.460809 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7095b687869f1cfd4e5e2e4e650887') in 0.020196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.413101 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b027737b956eb317e3f064eaa9b1d96a') in 0.007090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.717921 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3cf3f0a08f91b86c8487d35f22a5eb') in 0.006359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.555387 seconds.
+  path: Assets/Textures/Skybox Texture.png
+  artifactKey: Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Skybox Texture.png using Guid(03ce9792fe5ccdc4e86858237dddcf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55c3a3cd7276b455f2f28ffd2307df6') in 0.007650 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.2 MB.
+System memory in use after: 191.4 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5582.
+Total: 5.159100 ms (FindLiveObjects: 0.503200 ms CreateObjectMapping: 0.129800 ms MarkObjects: 3.086600 ms  DeleteObjects: 1.438400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.2 MB.
+System memory in use after: 191.5 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 5585.
+Total: 4.682000 ms (FindLiveObjects: 0.508100 ms CreateObjectMapping: 0.113700 ms MarkObjects: 2.724800 ms  DeleteObjects: 1.334400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.014959 seconds.
+  path: Assets/Materials/Debris Stone 1.mat
+  artifactKey: Guid(c415c5ff1889b7b40b6c77adcd0cc317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Debris Stone 1.mat using Guid(c415c5ff1889b7b40b6c77adcd0cc317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e489c7a0c50644393626f65b3082f6') in 0.175138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Materials/Stone Tile Texture.mat
+  artifactKey: Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stone Tile Texture.mat using Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7c7619f83936d5794141d3415b18ce') in 0.019166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Materials/Debris Stone 2.mat
+  artifactKey: Guid(fb25a2566459e114089ed63fea45df69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Debris Stone 2.mat using Guid(fb25a2566459e114089ed63fea45df69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a2dabb00cab50c1b265a7cdf2433fa') in 0.018351 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
