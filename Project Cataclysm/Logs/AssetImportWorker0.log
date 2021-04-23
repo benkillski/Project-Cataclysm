@@ -774,3 +774,116 @@ Received Import Request.
   path: Assets/Prefabs
   artifactKey: Guid(1de57c419be09714c9324a2a8e93b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs using Guid(1de57c419be09714c9324a2a8e93b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c4d7ea7f31bda7ad48d6b954a89521') in 0.015152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.895464 seconds.
+  path: Assets/Prefabs/UI
+  artifactKey: Guid(96b29b333430cc04da60aa504d2f3313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI using Guid(96b29b333430cc04da60aa504d2f3313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1c353579828f07f14e5bc0f83590ae') in 0.002511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.157520 seconds.
+  path: Assets/Prefabs/UI/Player HUD
+  artifactKey: Guid(417a5eb3e89d7a84ea2c9ed9316a0a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI/Player HUD using Guid(417a5eb3e89d7a84ea2c9ed9316a0a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2d91f7dadc3ab907bc8e63e3b841c4') in 0.007381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.750886 seconds.
+  path: Assets/Prefabs/UI/Player HUD/Player HUD.prefab
+  artifactKey: Guid(7e8f91404ac9c9d4d8d7c72c9bd03b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI/Player HUD/Player HUD.prefab using Guid(7e8f91404ac9c9d4d8d7c72c9bd03b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f458ee8c4593af6b8e4d352e4075dc71') in 0.024096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.018179 seconds.
+  path: Assets/Prefabs/Player
+  artifactKey: Guid(01f1e1bb7f5c3bf42a017c34efb9023a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player using Guid(01f1e1bb7f5c3bf42a017c34efb9023a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2cda18c4f91b2fb41cc65b41c46d3f') in 0.007629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.736327 seconds.
+  path: Assets/Prefabs/Post Processing
+  artifactKey: Guid(8ae8df392b6193b45925fbc4872be3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Post Processing using Guid(8ae8df392b6193b45925fbc4872be3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33e9c8ee79d49bc4d463c59ce09f4b7') in 0.007779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.213035 seconds.
+  path: Assets/Prefabs/Post Processing/Post-process Volume.prefab
+  artifactKey: Guid(44d27a450ae6a4842b69ae3e5c952c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Post Processing/Post-process Volume.prefab using Guid(44d27a450ae6a4842b69ae3e5c952c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4934ea6325887f87761c835c9020664') in 0.010574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.248673 seconds.
+  path: Assets/Prefabs/Lighting
+  artifactKey: Guid(8e2e3d2765d00544a83fa8286b4c0660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Lighting using Guid(8e2e3d2765d00544a83fa8286b4c0660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef5e4cea0dbe4a671b105f24caf4b09') in 0.007774 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4278 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.3 MB.
+System memory in use after: 175.9 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 4989.
+Total: 4.685800 ms (FindLiveObjects: 0.522800 ms CreateObjectMapping: 0.142800 ms MarkObjects: 2.755700 ms  DeleteObjects: 1.262900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.802229 seconds.
+  path: Assets/Materials/Concrete/Stone Tile Material.mat
+  artifactKey: Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete/Stone Tile Material.mat using Guid(af9614c00c853d84ba2b90ea045b2359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44184fcd205df3cf5652371d6e1cb381') in 0.169373 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4278 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.5 MB.
+System memory in use after: 176.4 MB.
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 5029.
+Total: 4.893200 ms (FindLiveObjects: 0.432500 ms CreateObjectMapping: 0.111900 ms MarkObjects: 2.989900 ms  DeleteObjects: 1.357300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
