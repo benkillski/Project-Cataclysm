@@ -51,6 +51,17 @@ public class PlayerController : MonoBehaviour
 
         Vector3 move = transform.right * x + transform.forward * z;     //Combined Movement  
 
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            Debug.Log("Player Running");
+            speed = 10f;
+        }
+        else
+        {
+            Debug.Log("Player Walking");
+            speed = 6f;
+        }
         controller.Move(move * speed * Time.deltaTime);                 //Moves player, multiplies the movement by the Player's speed
 
         //If the Jump button is pressed and the player is on the ground

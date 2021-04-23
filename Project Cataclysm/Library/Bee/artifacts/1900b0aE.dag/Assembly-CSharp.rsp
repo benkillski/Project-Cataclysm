@@ -337,7 +337,6 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/PlayerLook.cs"
-"Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/SceneIndexes.cs"
 -langversion:8.0
 
