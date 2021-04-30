@@ -219,3 +219,177 @@ System memory in use after: 182.3 MB.
 Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 5062.
 Total: 7.552000 ms (FindLiveObjects: 0.796400 ms CreateObjectMapping: 0.156300 ms MarkObjects: 5.435500 ms  DeleteObjects: 1.159400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 110.362239 seconds.
+  path: Assets/Textures/Plants & Flowers/Plant Sprite.png
+  artifactKey: Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plants & Flowers/Plant Sprite.png using Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ba757f848995973400c87f4e5c3c2f') in 0.056836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.960127 seconds.
+  path: Assets/Textures/Plants & Flowers/Plant Sprite.png
+  artifactKey: Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plants & Flowers/Plant Sprite.png using Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0b142e4cae6b1df22427846061cf1c') in 0.017640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.458252 seconds.
+  path: Assets/Textures/Plants & Flowers/Plant Sprite.png
+  artifactKey: Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plants & Flowers/Plant Sprite.png using Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbcd0109865440c726dc273eaed7c64f') in 0.017389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.969458 seconds.
+  path: Assets/Textures/Plants & Flowers/Plant Sprite.png
+  artifactKey: Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plants & Flowers/Plant Sprite.png using Guid(75bc9ceb75e6cd04cb606fb0f3b507e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68928b52c0fc5315febcf1ef7d20e136') in 0.015288 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4278 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.7 MB.
+System memory in use after: 183.8 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 5122.
+Total: 6.401300 ms (FindLiveObjects: 0.723300 ms CreateObjectMapping: 0.139000 ms MarkObjects: 3.967000 ms  DeleteObjects: 1.570500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 813.338043 seconds.
+  path: Assets/Textures/Fencing
+  artifactKey: Guid(f055374c2452ec74790941b85f561596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing using Guid(f055374c2452ec74790941b85f561596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76bcc0d82aa54090410fc191a06c846') in 0.012657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298415be9e7322c6d546d8e337a31fa8') in 0.030889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.016481 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d7f7041fc1568516baff4da014fa1c') in 0.032804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.823693 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2368a7ca16a78f596b0cfcdba9d9418') in 0.017243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.430786 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9d2dcc2ac81fc593fc514ce4a55e96') in 0.018948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 411.505644 seconds.
+  path: Assets/Textures/Fencing/Materials
+  artifactKey: Guid(0e0f46ae352925540823efc4af7e2220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Materials using Guid(0e0f46ae352925540823efc4af7e2220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c2716aeac37ca5235530387f20c1c7') in 0.003087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.554952 seconds.
+  path: Assets/Textures/Fencing/Materials/Cast Iron  Fence.mat
+  artifactKey: Guid(0751c8b071c8da946969eec08ed2e82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Materials/Cast Iron  Fence.mat using Guid(0751c8b071c8da946969eec08ed2e82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f812e74abb2f350496bbc32ca91d1b84') in 0.147016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.304626 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab2b2fff4477e3095fef3eceb75ed03') in 0.017628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.337237 seconds.
+  path: Assets/Textures/Fencing/Cast Iron  Fence.png
+  artifactKey: Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Fencing/Cast Iron  Fence.png using Guid(32d194e06fe43fc49902462c7f2b4566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b03e9ac3da4fe293686dcced29ddec6') in 0.017018 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4279 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.4 MB.
+System memory in use after: 186.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 5249.
+Total: 7.171300 ms (FindLiveObjects: 0.515900 ms CreateObjectMapping: 0.142400 ms MarkObjects: 5.079600 ms  DeleteObjects: 1.431800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4278 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.4 MB.
+System memory in use after: 186.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 5252.
+Total: 6.548900 ms (FindLiveObjects: 0.530400 ms CreateObjectMapping: 0.127400 ms MarkObjects: 4.646800 ms  DeleteObjects: 1.242600 ms)
+
