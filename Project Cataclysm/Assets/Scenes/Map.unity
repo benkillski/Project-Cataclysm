@@ -213,12 +213,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 36837748}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 64.442, y: -8.7997, z: 20.825}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 107.44583, y: 18.460749, z: -66.46214}
   m_LocalScale: {x: 0.6539, y: 0.6539, z: 0.6539}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &38395851
 GameObject:
@@ -310,12 +310,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 38395851}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.2157, y: -8.8581, z: 21.195}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 109.21953, y: 18.402348, z: -66.09214}
   m_LocalScale: {x: 0.6577, y: 0.6577, z: 0.6577}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &39762178
 Mesh:
@@ -571,12 +571,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 49497184}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.419, y: -8.5998, z: 21.948}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 109.42282, y: 18.660648, z: -65.33914}
   m_LocalScale: {x: 1.7853, y: 1.7853, z: 1.7853}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &65690774
 GameObject:
@@ -2379,6 +2379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 108248120}
   - component: {fileID: 108248121}
+  - component: {fileID: 108248122}
   m_Layer: 0
   m_Name: Cast Iron  Fence (72)
   m_TagString: Untagged
@@ -2452,6 +2453,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &108248122
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108248119}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &111867449
 GameObject:
   m_ObjectHideFlags: 0
@@ -2462,6 +2476,7 @@ GameObject:
   m_Component:
   - component: {fileID: 111867450}
   - component: {fileID: 111867451}
+  - component: {fileID: 111867452}
   m_Layer: 0
   m_Name: Cast Iron  Fence (84)
   m_TagString: Untagged
@@ -2535,6 +2550,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &111867452
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111867449}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &116756525
 Mesh:
   m_ObjectHideFlags: 0
@@ -2709,6 +2737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 123284222}
   - component: {fileID: 123284223}
+  - component: {fileID: 123284224}
   m_Layer: 0
   m_Name: Cast Iron  Fence (11)
   m_TagString: Untagged
@@ -2782,6 +2811,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &123284224
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123284221}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &124345201
 Mesh:
   m_ObjectHideFlags: 0
@@ -4116,6 +4158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 152109597}
   - component: {fileID: 152109598}
+  - component: {fileID: 152109599}
   m_Layer: 0
   m_Name: Cast Iron  Fence (36)
   m_TagString: Untagged
@@ -4189,6 +4232,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &152109599
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152109596}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &159550884
 GameObject:
   m_ObjectHideFlags: 0
@@ -4541,6 +4597,7 @@ GameObject:
   m_Component:
   - component: {fileID: 174940817}
   - component: {fileID: 174940818}
+  - component: {fileID: 174940819}
   m_Layer: 0
   m_Name: Cast Iron  Fence (78)
   m_TagString: Untagged
@@ -4614,6 +4671,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &174940819
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174940816}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &179291280
 GameObject:
   m_ObjectHideFlags: 0
@@ -4966,6 +5036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 182297033}
   - component: {fileID: 182297034}
+  - component: {fileID: 182297035}
   m_Layer: 0
   m_Name: Cast Iron  Fence (60)
   m_TagString: Untagged
@@ -5039,6 +5110,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &182297035
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182297032}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &192173877
 GameObject:
   m_ObjectHideFlags: 0
@@ -5745,6 +5829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224727641}
   - component: {fileID: 224727642}
+  - component: {fileID: 224727643}
   m_Layer: 0
   m_Name: Cast Iron  Fence (62)
   m_TagString: Untagged
@@ -5818,6 +5903,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &224727643
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224727640}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &238202852
 GameObject:
   m_ObjectHideFlags: 0
@@ -6620,6 +6718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 258072820}
   - component: {fileID: 258072821}
+  - component: {fileID: 258072822}
   m_Layer: 0
   m_Name: Cast Iron  Fence (21)
   m_TagString: Untagged
@@ -6693,6 +6792,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &258072822
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258072819}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &264543514
 GameObject:
   m_ObjectHideFlags: 0
@@ -6703,6 +6815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 264543515}
   - component: {fileID: 264543516}
+  - component: {fileID: 264543517}
   m_Layer: 0
   m_Name: Cast Iron  Fence (18)
   m_TagString: Untagged
@@ -6776,6 +6889,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &264543517
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 264543514}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &267230571
 GameObject:
   m_ObjectHideFlags: 0
@@ -6786,6 +6912,7 @@ GameObject:
   m_Component:
   - component: {fileID: 267230572}
   - component: {fileID: 267230573}
+  - component: {fileID: 267230574}
   m_Layer: 0
   m_Name: Cast Iron  Fence (7)
   m_TagString: Untagged
@@ -6859,6 +6986,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &267230574
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267230571}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &267474358
 Mesh:
   m_ObjectHideFlags: 0
@@ -9217,6 +9357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 282972959}
   - component: {fileID: 282972960}
+  - component: {fileID: 282972961}
   m_Layer: 0
   m_Name: Cast Iron  Fence (39)
   m_TagString: Untagged
@@ -9290,6 +9431,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &282972961
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 282972958}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &291301492
 Mesh:
   m_ObjectHideFlags: 0
@@ -9484,6 +9638,7 @@ GameObject:
   m_Component:
   - component: {fileID: 298681943}
   - component: {fileID: 298681944}
+  - component: {fileID: 298681945}
   m_Layer: 0
   m_Name: Cast Iron  Fence (23)
   m_TagString: Untagged
@@ -9557,6 +9712,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &298681945
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 298681942}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &307005980
 GameObject:
   m_ObjectHideFlags: 0
@@ -9664,6 +9832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 314781928}
   - component: {fileID: 314781929}
+  - component: {fileID: 314781930}
   m_Layer: 0
   m_Name: Cast Iron  Fence (24)
   m_TagString: Untagged
@@ -9737,6 +9906,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &314781930
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314781927}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &320789184
 GameObject:
   m_ObjectHideFlags: 0
@@ -10743,6 +10925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 330374913}
   - component: {fileID: 330374914}
+  - component: {fileID: 330374915}
   m_Layer: 0
   m_Name: Cast Iron  Fence (45)
   m_TagString: Untagged
@@ -10816,6 +10999,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &330374915
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330374912}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &332166707
 GameObject:
   m_ObjectHideFlags: 0
@@ -10826,6 +11022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 332166708}
   - component: {fileID: 332166709}
+  - component: {fileID: 332166710}
   m_Layer: 0
   m_Name: Cast Iron  Fence (4)
   m_TagString: Untagged
@@ -10899,6 +11096,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &332166710
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332166707}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &348274435
 GameObject:
   m_ObjectHideFlags: 0
@@ -12382,6 +12592,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352878617}
   - component: {fileID: 352878618}
+  - component: {fileID: 352878619}
   m_Layer: 0
   m_Name: Cast Iron  Fence (54)
   m_TagString: Untagged
@@ -12455,6 +12666,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &352878619
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352878616}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &353390698
 GameObject:
   m_ObjectHideFlags: 0
@@ -12465,6 +12689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 353390699}
   - component: {fileID: 353390700}
+  - component: {fileID: 353390701}
   m_Layer: 0
   m_Name: Cast Iron  Fence (19)
   m_TagString: Untagged
@@ -12538,6 +12763,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &353390701
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 353390698}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &362934590
 Mesh:
   m_ObjectHideFlags: 0
@@ -17551,12 +17789,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 475707254}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 60.32, y: -8.5998, z: 21.642}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 103.32382, y: 18.660648, z: -65.64514}
   m_LocalScale: {x: 1.7853, y: 1.7853, z: 1.7853}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &478749709
 GameObject:
@@ -17648,12 +17886,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478749709}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 59.546, y: -8.7511, z: 20.995}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 102.54983, y: 18.50935, z: -66.29214}
   m_LocalScale: {x: 0.7386, y: 0.7386, z: 0.7386}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &480473489
 GameObject:
@@ -18903,6 +19141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 490992959}
   - component: {fileID: 490992960}
+  - component: {fileID: 490992961}
   m_Layer: 0
   m_Name: Cast Iron  Fence (74)
   m_TagString: Untagged
@@ -18976,6 +19215,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &490992961
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490992958}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &517740472
 Mesh:
   m_ObjectHideFlags: 0
@@ -20778,6 +21030,21 @@ Transform:
   - {fileID: 2118278426}
   - {fileID: 1965996409}
   - {fileID: 1305113964}
+  - {fileID: 663726969}
+  - {fileID: 939486755}
+  - {fileID: 1760372103}
+  - {fileID: 1347766761}
+  - {fileID: 478749712}
+  - {fileID: 1576977336}
+  - {fileID: 1031278142}
+  - {fileID: 672244334}
+  - {fileID: 1241213974}
+  - {fileID: 475707257}
+  - {fileID: 38395854}
+  - {fileID: 1574524949}
+  - {fileID: 786973302}
+  - {fileID: 49497187}
+  - {fileID: 36837751}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20791,6 +21058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 548246132}
   - component: {fileID: 548246133}
+  - component: {fileID: 548246134}
   m_Layer: 0
   m_Name: Cast Iron  Fence (80)
   m_TagString: Untagged
@@ -20864,6 +21132,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &548246134
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 548246131}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &562126457
 GameObject:
   m_ObjectHideFlags: 0
@@ -20874,6 +21155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 562126458}
   - component: {fileID: 562126459}
+  - component: {fileID: 562126460}
   m_Layer: 0
   m_Name: Cast Iron  Fence (57)
   m_TagString: Untagged
@@ -20947,6 +21229,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &562126460
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562126457}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &571637741
 GameObject:
   m_ObjectHideFlags: 0
@@ -21627,6 +21922,7 @@ GameObject:
   m_Component:
   - component: {fileID: 602105609}
   - component: {fileID: 602105610}
+  - component: {fileID: 602105611}
   m_Layer: 0
   m_Name: Cast Iron  Fence (70)
   m_TagString: Untagged
@@ -21700,6 +21996,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &602105611
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602105608}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &621826270
 GameObject:
   m_ObjectHideFlags: 0
@@ -21741,6 +22050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 628367784}
   - component: {fileID: 628367785}
+  - component: {fileID: 628367786}
   m_Layer: 0
   m_Name: Cast Iron  Fence (90)
   m_TagString: Untagged
@@ -21814,6 +22124,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &628367786
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 628367783}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &635733077
 GameObject:
   m_ObjectHideFlags: 0
@@ -22452,6 +22775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 652339240}
   - component: {fileID: 652339241}
+  - component: {fileID: 652339242}
   m_Layer: 0
   m_Name: Cast Iron  Fence (26)
   m_TagString: Untagged
@@ -22525,6 +22849,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &652339242
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652339239}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &652389745
 GameObject:
   m_ObjectHideFlags: 0
@@ -22950,8 +23287,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 663726968}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.03, y: -9.160336, z: 45.456516}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 56.033825, y: 18.100113, z: -41.830624}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1668691525}
@@ -23046,8 +23383,8 @@ Transform:
   - {fileID: 1197333021}
   - {fileID: 628367784}
   - {fileID: 975037435}
-  m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &672244331
 GameObject:
@@ -23139,12 +23476,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672244331}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 59.444, y: -8.5998, z: 22.034}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 102.44783, y: 18.660648, z: -65.25314}
   m_LocalScale: {x: 1.7853, y: 1.7853, z: 1.7853}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &673097463
 GameObject:
@@ -23156,6 +23493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 673097464}
   - component: {fileID: 673097465}
+  - component: {fileID: 673097466}
   m_Layer: 0
   m_Name: Cast Iron  Fence (25)
   m_TagString: Untagged
@@ -23229,6 +23567,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &673097466
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673097463}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &679072677
 GameObject:
   m_ObjectHideFlags: 0
@@ -23899,6 +24250,7 @@ GameObject:
   m_Component:
   - component: {fileID: 684426101}
   - component: {fileID: 684426102}
+  - component: {fileID: 684426103}
   m_Layer: 0
   m_Name: Cast Iron  Fence (63)
   m_TagString: Untagged
@@ -23972,6 +24324,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &684426103
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 684426100}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &697022166
 Mesh:
   m_ObjectHideFlags: 0
@@ -24474,6 +24839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 720396734}
   - component: {fileID: 720396735}
+  - component: {fileID: 720396736}
   m_Layer: 0
   m_Name: Cast Iron  Fence (44)
   m_TagString: Untagged
@@ -24547,6 +24913,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &720396736
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720396733}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &722201003
 Mesh:
   m_ObjectHideFlags: 0
@@ -24905,6 +25284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 741649226}
   - component: {fileID: 741649227}
+  - component: {fileID: 741649228}
   m_Layer: 0
   m_Name: Cast Iron  Fence (35)
   m_TagString: Untagged
@@ -24978,6 +25358,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &741649228
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741649225}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &751006137
 GameObject:
   m_ObjectHideFlags: 0
@@ -26499,6 +26892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 772471389}
   - component: {fileID: 772471390}
+  - component: {fileID: 772471391}
   m_Layer: 0
   m_Name: Cast Iron  Fence (77)
   m_TagString: Untagged
@@ -26572,6 +26966,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &772471391
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772471388}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &775702190
 GameObject:
   m_ObjectHideFlags: 0
@@ -26582,6 +26989,7 @@ GameObject:
   m_Component:
   - component: {fileID: 775702191}
   - component: {fileID: 775702192}
+  - component: {fileID: 775702193}
   m_Layer: 0
   m_Name: Cast Iron  Fence (49)
   m_TagString: Untagged
@@ -26655,6 +27063,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &775702193
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775702190}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &777550374
 GameObject:
   m_ObjectHideFlags: 0
@@ -26665,6 +27086,7 @@ GameObject:
   m_Component:
   - component: {fileID: 777550375}
   - component: {fileID: 777550376}
+  - component: {fileID: 777550377}
   m_Layer: 0
   m_Name: Cast Iron  Fence (79)
   m_TagString: Untagged
@@ -26738,6 +27160,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &777550377
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777550374}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &778087512
 Mesh:
   m_ObjectHideFlags: 0
@@ -26992,12 +27427,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 786973299}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 67.46, y: -8.5998, z: 20.6}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 110.46382, y: 18.660648, z: -66.68714}
   m_LocalScale: {x: 1.7853, y: 1.7853, z: 1.7853}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &789207570
 GameObject:
@@ -27009,6 +27444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 789207571}
   - component: {fileID: 789207572}
+  - component: {fileID: 789207573}
   m_Layer: 0
   m_Name: Cast Iron  Fence (58)
   m_TagString: Untagged
@@ -27082,6 +27518,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &789207573
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 789207570}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &797358371
 GameObject:
   m_ObjectHideFlags: 0
@@ -27092,6 +27541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 797358372}
   - component: {fileID: 797358373}
+  - component: {fileID: 797358374}
   m_Layer: 0
   m_Name: Cast Iron  Fence (32)
   m_TagString: Untagged
@@ -27165,6 +27615,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &797358374
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797358371}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &810525734
 GameObject:
   m_ObjectHideFlags: 0
@@ -27175,6 +27638,7 @@ GameObject:
   m_Component:
   - component: {fileID: 810525735}
   - component: {fileID: 810525736}
+  - component: {fileID: 810525737}
   m_Layer: 0
   m_Name: Cast Iron  Fence (56)
   m_TagString: Untagged
@@ -27248,6 +27712,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &810525737
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810525734}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &815489255
 Mesh:
   m_ObjectHideFlags: 0
@@ -28082,6 +28559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 829800373}
   - component: {fileID: 829800374}
+  - component: {fileID: 829800375}
   m_Layer: 0
   m_Name: Cast Iron  Fence (88)
   m_TagString: Untagged
@@ -28155,6 +28633,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &829800375
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 829800372}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &845909772
 GameObject:
   m_ObjectHideFlags: 0
@@ -28861,6 +29352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 846221961}
   - component: {fileID: 846221962}
+  - component: {fileID: 846221963}
   m_Layer: 0
   m_Name: Cast Iron  Fence (86)
   m_TagString: Untagged
@@ -28934,6 +29426,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &846221963
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846221960}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &846915341
 GameObject:
   m_ObjectHideFlags: 0
@@ -30567,7 +31072,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27926
+  m_Name: pb_Mesh28314
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -30745,6 +31250,7 @@ GameObject:
   m_Component:
   - component: {fileID: 881779898}
   - component: {fileID: 881779899}
+  - component: {fileID: 881779900}
   m_Layer: 0
   m_Name: Cast Iron  Fence (65)
   m_TagString: Untagged
@@ -30818,6 +31324,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &881779900
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 881779897}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &900527755
 Mesh:
   m_ObjectHideFlags: 0
@@ -31984,7 +32503,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27266
+  m_Name: pb_Mesh27392
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -33229,12 +33748,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 939486752}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -28, y: -3.7539, z: 53}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.003826, y: 23.506548, z: -34.28714}
   m_LocalScale: {x: 9.299608, y: 9.299608, z: 9.299608}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &939486756
 BoxCollider:
@@ -33423,6 +33942,7 @@ GameObject:
   m_Component:
   - component: {fileID: 950639533}
   - component: {fileID: 950639534}
+  - component: {fileID: 950639535}
   m_Layer: 0
   m_Name: Cast Iron  Fence (34)
   m_TagString: Untagged
@@ -33496,6 +34016,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &950639535
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950639532}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &951545624
 GameObject:
   m_ObjectHideFlags: 0
@@ -33506,6 +34039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 951545625}
   - component: {fileID: 951545626}
+  - component: {fileID: 951545627}
   m_Layer: 0
   m_Name: Cast Iron  Fence (75)
   m_TagString: Untagged
@@ -33579,6 +34113,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &951545627
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951545624}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &952370121
 Mesh:
   m_ObjectHideFlags: 0
@@ -35766,6 +36313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 975037435}
   - component: {fileID: 975037436}
+  - component: {fileID: 975037437}
   m_Layer: 0
   m_Name: Cast Iron  Fence (91)
   m_TagString: Untagged
@@ -35839,6 +36387,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &975037437
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975037434}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &976079659
 GameObject:
   m_ObjectHideFlags: 0
@@ -36231,6 +36792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 979573488}
   - component: {fileID: 979573489}
+  - component: {fileID: 979573490}
   m_Layer: 0
   m_Name: Cast Iron  Fence (38)
   m_TagString: Untagged
@@ -36304,6 +36866,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &979573490
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979573487}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &997520876
 GameObject:
   m_ObjectHideFlags: 0
@@ -38527,12 +39102,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1031278139}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 62.27, y: -8.6, z: 20.86}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 105.27383, y: 18.660448, z: -66.42714}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1041619577
 GameObject:
@@ -38544,6 +39119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1041619578}
   - component: {fileID: 1041619579}
+  - component: {fileID: 1041619580}
   m_Layer: 0
   m_Name: Cast Iron  Fence (85)
   m_TagString: Untagged
@@ -38617,6 +39193,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1041619580
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041619577}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1047428792
 GameObject:
   m_ObjectHideFlags: 0
@@ -40129,6 +40718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1072937582}
   - component: {fileID: 1072937583}
+  - component: {fileID: 1072937584}
   m_Layer: 0
   m_Name: Cast Iron  Fence (17)
   m_TagString: Untagged
@@ -40202,6 +40792,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1072937584
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1072937581}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1073237544
 GameObject:
   m_ObjectHideFlags: 0
@@ -43197,6 +43800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1117781736}
   - component: {fileID: 1117781737}
+  - component: {fileID: 1117781738}
   m_Layer: 0
   m_Name: Cast Iron  Fence (55)
   m_TagString: Untagged
@@ -43270,6 +43874,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1117781738
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1117781735}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1119117854
 GameObject:
   m_ObjectHideFlags: 0
@@ -44346,6 +44963,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1133219567}
   - component: {fileID: 1133219568}
+  - component: {fileID: 1133219569}
   m_Layer: 0
   m_Name: Cast Iron  Fence (5)
   m_TagString: Untagged
@@ -44419,6 +45037,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1133219569
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133219566}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1137035960
 Mesh:
   m_ObjectHideFlags: 0
@@ -44757,6 +45388,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1153923285}
   - component: {fileID: 1153923286}
+  - component: {fileID: 1153923287}
   m_Layer: 0
   m_Name: Cast Iron  Fence (50)
   m_TagString: Untagged
@@ -44830,6 +45462,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1153923287
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1153923284}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1156481834
 GameObject:
   m_ObjectHideFlags: 0
@@ -44840,6 +45485,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1156481835}
   - component: {fileID: 1156481836}
+  - component: {fileID: 1156481837}
   m_Layer: 0
   m_Name: Cast Iron  Fence (9)
   m_TagString: Untagged
@@ -44913,6 +45559,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1156481837
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1156481834}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1169570866
 GameObject:
   m_ObjectHideFlags: 0
@@ -44923,6 +45582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1169570867}
   - component: {fileID: 1169570868}
+  - component: {fileID: 1169570869}
   m_Layer: 0
   m_Name: Cast Iron  Fence (14)
   m_TagString: Untagged
@@ -44996,6 +45656,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1169570869
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169570866}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1170965557
 GameObject:
   m_ObjectHideFlags: 0
@@ -46510,6 +47183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197333021}
   - component: {fileID: 1197333022}
+  - component: {fileID: 1197333023}
   m_Layer: 0
   m_Name: Cast Iron  Fence (89)
   m_TagString: Untagged
@@ -46583,6 +47257,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1197333023
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197333020}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1200497800
 GameObject:
   m_ObjectHideFlags: 0
@@ -46593,6 +47280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1200497801}
   - component: {fileID: 1200497802}
+  - component: {fileID: 1200497803}
   m_Layer: 0
   m_Name: Cast Iron  Fence (8)
   m_TagString: Untagged
@@ -46666,6 +47354,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1200497803
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200497800}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1216358758
 GameObject:
   m_ObjectHideFlags: 0
@@ -46676,6 +47377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1216358759}
   - component: {fileID: 1216358760}
+  - component: {fileID: 1216358761}
   m_Layer: 0
   m_Name: Cast Iron  Fence (30)
   m_TagString: Untagged
@@ -46749,6 +47451,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1216358761
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216358758}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1241213971
 GameObject:
   m_ObjectHideFlags: 0
@@ -46839,12 +47554,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1241213971}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 59.769, y: -8.5998, z: 22.443}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 102.77283, y: 18.660648, z: -64.84414}
   m_LocalScale: {x: 1.7853, y: 1.7853, z: 1.7853}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1241644111
 Mesh:
@@ -47194,6 +47909,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1247649640}
   - component: {fileID: 1247649641}
+  - component: {fileID: 1247649642}
   m_Layer: 0
   m_Name: Cast Iron  Fence (6)
   m_TagString: Untagged
@@ -47267,6 +47983,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1247649642
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247649639}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1254582387
 Mesh:
   m_ObjectHideFlags: 0
@@ -50540,6 +51269,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1310899950}
   - component: {fileID: 1310899951}
+  - component: {fileID: 1310899952}
   m_Layer: 0
   m_Name: Cast Iron  Fence (33)
   m_TagString: Untagged
@@ -50613,6 +51343,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1310899952
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1310899949}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1318239362
 Mesh:
   m_ObjectHideFlags: 0
@@ -51439,7 +52182,7 @@ GameObject:
   - component: {fileID: 1347766758}
   - component: {fileID: 1347766757}
   - component: {fileID: 1347766756}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Garden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52362,11 +53105,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1347766755}
   m_LocalRotation: {x: -0.0000000053680513, y: -2.8345157e-17, z: 0.0000000056537828, w: 1}
-  m_LocalPosition: {x: 59.66, y: -10, z: 23.95}
+  m_LocalPosition: {x: 102.663826, y: 17.260448, z: -63.33714}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1366817173
 GameObject:
@@ -52378,6 +53121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1366817174}
   - component: {fileID: 1366817175}
+  - component: {fileID: 1366817176}
   m_Layer: 0
   m_Name: Cast Iron  Fence (43)
   m_TagString: Untagged
@@ -52451,6 +53195,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1366817176
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366817173}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1367084297
 Mesh:
   m_ObjectHideFlags: 0
@@ -52625,6 +53382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370115275}
   - component: {fileID: 1370115276}
+  - component: {fileID: 1370115277}
   m_Layer: 0
   m_Name: Cast Iron  Fence (40)
   m_TagString: Untagged
@@ -52698,6 +53456,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1370115277
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370115274}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1385133766
 GameObject:
   m_ObjectHideFlags: 0
@@ -52708,6 +53479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1385133767}
   - component: {fileID: 1385133768}
+  - component: {fileID: 1385133769}
   m_Layer: 0
   m_Name: Cast Iron  Fence (42)
   m_TagString: Untagged
@@ -52781,6 +53553,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1385133769
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1385133766}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1388628709
 GameObject:
   m_ObjectHideFlags: 0
@@ -53787,6 +54572,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1398581126}
   - component: {fileID: 1398581127}
+  - component: {fileID: 1398581128}
   m_Layer: 0
   m_Name: Cast Iron  Fence (61)
   m_TagString: Untagged
@@ -53860,6 +54646,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1398581128
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398581125}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1410115998
 GameObject:
   m_ObjectHideFlags: 0
@@ -53870,6 +54669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1410115999}
   - component: {fileID: 1410116000}
+  - component: {fileID: 1410116001}
   m_Layer: 0
   m_Name: Cast Iron  Fence (48)
   m_TagString: Untagged
@@ -53943,6 +54743,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1410116001
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410115998}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1441186018
 GameObject:
   m_ObjectHideFlags: 0
@@ -53953,6 +54766,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1441186019}
   - component: {fileID: 1441186020}
+  - component: {fileID: 1441186021}
   m_Layer: 0
   m_Name: Cast Iron  Fence (15)
   m_TagString: Untagged
@@ -54026,6 +54840,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1441186021
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441186018}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1447474121
 GameObject:
   m_ObjectHideFlags: 0
@@ -54036,6 +54863,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1447474122}
   - component: {fileID: 1447474123}
+  - component: {fileID: 1447474124}
   m_Layer: 0
   m_Name: Cast Iron  Fence (28)
   m_TagString: Untagged
@@ -54109,6 +54937,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1447474124
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447474121}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1455550862
 GameObject:
   m_ObjectHideFlags: 0
@@ -56244,6 +57085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1491703851}
   - component: {fileID: 1491703852}
+  - component: {fileID: 1491703853}
   m_Layer: 0
   m_Name: Cast Iron  Fence (81)
   m_TagString: Untagged
@@ -56317,6 +57159,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1491703853
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1491703850}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1491866765
 Mesh:
   m_ObjectHideFlags: 0
@@ -56655,6 +57510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1529796069}
   - component: {fileID: 1529796070}
+  - component: {fileID: 1529796071}
   m_Layer: 0
   m_Name: Cast Iron  Fence (41)
   m_TagString: Untagged
@@ -56728,6 +57584,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1529796071
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1529796068}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1530984378
 Mesh:
   m_ObjectHideFlags: 0
@@ -57230,6 +58099,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1574080512}
   - component: {fileID: 1574080513}
+  - component: {fileID: 1574080514}
   m_Layer: 0
   m_Name: Cast Iron  Fence (87)
   m_TagString: Untagged
@@ -57303,6 +58173,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1574080514
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1574080511}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1574524946
 GameObject:
   m_ObjectHideFlags: 0
@@ -57393,12 +58276,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1574524946}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 68.1224, y: -8.8061, z: 21.97}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 111.12622, y: 18.45435, z: -65.31714}
   m_LocalScale: {x: 0.72669274, y: 0.72669274, z: 0.72669274}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1576977333
 GameObject:
@@ -57490,12 +58373,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576977333}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 63.934, y: -8.54, z: 21.969}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 106.93782, y: 18.720448, z: -65.31814}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1578499679
 GameObject:
@@ -58489,6 +59372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1591311234}
   - component: {fileID: 1591311235}
+  - component: {fileID: 1591311236}
   m_Layer: 0
   m_Name: Cast Iron  Fence (3)
   m_TagString: Untagged
@@ -58562,6 +59446,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1591311236
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591311233}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1608195550
 GameObject:
   m_ObjectHideFlags: 0
@@ -61301,200 +62198,6 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!43 &1661708791
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh28150
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 96
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 50
-    localAABB:
-      m_Center: {x: -7.6, y: 3.6249998, z: 24}
-      m_Extent: {x: 21.6, y: 3.6250021, z: 24.2}
-  - serializedVersion: 2
-    firstByte: 192
-    indexCount: 90
-    topology: 0
-    baseVertex: 0
-    firstVertex: 50
-    vertexCount: 44
-    localAABB:
-      m_Center: {x: -7.6, y: 4.1249995, z: 24}
-      m_Extent: {x: 21.6, y: 3.1250021, z: 24.2}
-  - serializedVersion: 2
-    firstByte: 372
-    indexCount: 30
-    topology: 0
-    baseVertex: 0
-    firstVertex: 94
-    vertexCount: 20
-    localAABB:
-      m_Center: {x: -7.4999995, y: 4.225, z: 24}
-      m_Extent: {x: 21.5, y: 3.0250022, z: 24}
-  - serializedVersion: 2
-    firstByte: 432
-    indexCount: 12
-    topology: 0
-    baseVertex: 0
-    firstVertex: 114
-    vertexCount: 6
-    localAABB:
-      m_Center: {x: -7.4999995, y: 1.1999997, z: 24}
-      m_Extent: {x: 21.5, y: 0.0000021457672, z: 24}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a0009000b000a000c000d000e000d000f000e00100011001200110013001200140015001600150017001600180019001a0019001b001a001c001d001e001d001f001e00190020001b00200021001b0022001c0023001c001e0023002000240021002400250021002600220027002200230027002400280025002800290025002a002b002c002b0027002c0028002d0029002d002e0029002f003000310030002c0031003200330034003300350034003600370038003700390038003a003b003c003b003d003c003e003f0040003f0041004000420043004400430045004400460047004800470049004800350033004a0033004b004a00320034004c0034004d004c00440045004e0045004f004e0035004a0050004a00510050005200530054005300550054004000410056004100570056003c003d0058003d0059005800380039005a0039005b005a004d0034005c0034005d005c005e005f0060005f00610060006200630064006300650064006600670068006700690068006a006b006c006b006d006c006e006f0070006f0071007000720073007400730075007400740075007600770074007600
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 120
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 4
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 40
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 5760
-    _typelessdata: 01006041387b24b6000098410000803f00000000369457b336945733000000000000803f000080bf00009841387b24b6000060418f09b735e1ec11b50000803f00000000369457b336945733000000000000803f000080bf39d32a348f09b73501006041d7ff7f3f000098410000803f00000000369457b336945733000000000000803f000080bf00009841d7ff7f3f000060410b00803fe1ec11b50000803f00000000369457b336945733000000000000803f000080bf39d32a340b00803fffffffc05a9e15b60000984100000000000000000000803f000080bf0000000000000000000080bfffffff405a9e15b601006041387b24b60000984100000000000000000000803f000080bf0000000000000000000080bf010060c1387b24b6ffffffc0dbff7f3f0000984100000000000000000000803f000080bf0000000000000000000080bfffffff40dbff7f3f01006041d7ff7f3f0000984100000000000000000000803f000080bf0000000000000000000080bf010060c1d7ff7f3f000060418f09b735e1ec11b5d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf000060418f09b7350000e8c12223f135e1cdedb3d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf0000e8c12223f135000060410b00803fe1ec11b5d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf000060410b00803f0000e8c10f00803fe1cdedb3d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf0000e8c10f00803f0000e8c12223f135e1cdedb3000080bf00000000000000000000000000000000000080bf000080bfe1cded332223f1350000e8c12223f13500004042000080bf00000000000000000000000000000000000080bf000080bf000040c22223f1350000e8c10f00803fe1cdedb3000080bf00000000000000000000000000000000000080bf000080bfe1cded330f00803f0000e8c10f00803f00004042000080bf00000000000000000000000000000000000080bf000080bf000040c20f00803ffeffffc04bc3d435000040420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000040424bc3d435ffffffc05a9e15b6000098410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000098415a9e15b6feffffc00d00803f000040420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000040420d00803fffffffc0dbff7f3f000098410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf00009841dbff7f3f0000e8c12223f1350000404200000000000000000000803f000080bf0000000000000000000080bf0000e8412223f135feffffc04bc3d4350000404200000000000000000000803f000080bf0000000000000000000080bffeffff404bc3d4350000e8c10f00803f0000404200000000000000000000803f000080bf0000000000000000000080bf0000e8410f00803ffeffffc00d00803f0000404200000000000000000000803f000080bf0000000000000000000080bffeffff400d00803f000060410b00803fe1ec11b5fa823eb2000080bf00000000000080bffa823e3200000000000080bf000060c1e1ec11b50000e8c10f00803fe1cdedb314123eb2000080bf5ea1bd31000080bf14123e3200000000000080bf0000e841e1cdedb3000060410b00803ff1cc4cbe14123eb2000080bf5ea1bd31000080bf14123e3200000000000080bf000060c1f1cc4cbe9a99e9c10f00803fd4cc4cbe2fa13db2000080bf5ea13d32000080bf2fa13d3200000000000080bf9a99e941d4cc4cbe0000e8c10400e840e1cdedb3fa823e320000803ffa823eb20000803ffa823eb200000000000080bf0000e8c1584e02b3000060410300e840e1ec11b515123e320000803ffa82beb10000803f15123eb2fa82be18000080bf0000604115b0f8b49a99e9c10400e84007cd4cbe15123e320000803ffa82beb10000803f15123eb2fa82be18000080bf9a99e9c102cd4cbe000060410300e84024cd4cbe30a13d320000803f000000000000803f30a13db200000000000080bf000060411fcd4cbe0000e8c10f00803f0000404200000000000080bf00000000000080bf0000000000000000000080bf0000e841000040429a99e9c10f00803fcdcc404200000000000080bf00000000000080bf0000000000000000000080bf9a99e941cdcc40420000e8c10400e84000004042000000000000803f000000000000803f0000000000000000000080bf0000e8c1000040429a99e9c10400e840cccc4042000000000000803f000000000000803f0000000000000000000080bf9a99e9c1cccc4042feffffc00d00803f00004042893941b2000080bf0063e9ae000080bf8939413200000000000080bffeffff40000040429899f9c00d00803fcdcc4042e1663fb2000080bfa5663f32000080bfe1663f3200000000000080bf9899f940cdcc4042feffffc00300e84000004042310cc3320000803f250dc3b20000803f310cc3b200000000000080bffeffffc0000040429699f9c00300e840cccc40428839c1320000803f405569af0000803f8839c1b200000000000080bf9699f9c0cccc4042ffffffc0dbff7f3f00009841ff080bb4000080bfd4080b34000080bfff080b3400000000000080bfffffff40000098419999f9c0dbff7f3f9a999941ff080bb4000080bfd4080b34000080bfff080b3400000000000080bf9999f9409a999941ffffffc0fbffe740000098411a3d0d340000803fcb3d0db40000803f1a3d0db400000000000080bf000000c100009841feffffc00300e840000040421a3d0d340000803fcb3d0db40000803f1a3d0db4c03d0d9d000080bf000000c1000040429799f9c0fbffe740989999411a3d0d340000803fcb3d0db40000803f1a3d0db4c03d0d9d000080bf9999f9c09899994101006041d7ff7f3f000098412e093bb2000080bf512eba31000080bf2e093b3200000000000080bf010060c10000984101006041d7ff7f3f9a999941d0e33bb2000080bf00000000000080bfd0e33b3200000000000080bf010060c19a99994101006041fbffe74000009841000000000000803f000000000000803f0000000000000000000080bf0100604100009841ffffffc0fbffe74000009841000000000000803f000000000000803f0000000000000000000080bfffffffc00000984101006041fbffe7409c999941000000000000803f000000000000803f0000000000000000000080bf010060419c99994101006041d7ff7f3f000098410000803f00000000369457b336945733000000000000803f000080bf00009841d7ff7f3f000060410b00803fe1ec11b50000803fc8eb0c24369457b336945733000000000000803f000080bf39d32a340b00803f010060418599993f000098410000803fc8eb0c24369457b336945733000000000000803f000080bf000098418599993f00006041a599993f25dc11b50000803fc8eb8c24369457b336945733c8eb8c8c0000803f000080bf29162b34a599993f9999f9c0dbff7f3f9a99994100000000000000000000803f000080bf0000000000000000000080bf9999f940dbff7f3f01006041d7ff7f3f9a99994100000000000000000000803f000080bf0000000000000000000080bf010060c1d7ff7f3f9999f9c08799993f9a99994100000000000000000000803f000080bf0000000000000000000080bf9999f9408799993f010060418599993f9a99994100000000000000000000803f000080bf0000000000000000000080bf010060c18599993f000060410b00803ff1cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf000060410b00803f9a99e9c10f00803fd4cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf9a99e9c10f00803f00006041a599993ff1cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf00006041a599993f9a99e9c1a999993fd4cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf9a99e9c1a999993f9a99e9c10f00803fd4cc4cbe000080bf00000000000000000000000000000000000080bf000080bfd4cc4c3e0f00803f9a99e9c10f00803fcdcc4042000080bf00000000000000000000000000000000000080bf000080bfcdcc40c20f00803f9a99e9c1a999993fd4cc4cbe000080bf00000000000000000000000000000000000080bf000080bfd4cc4c3ea999993f9a99e9c1a999993fcdcc4042000080bf00000000000000000000000000000000000080bf000080bfcdcc40c2a999993f9899f9c00d00803fcdcc40420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bfcdcc40420d00803f9999f9c0dbff7f3f9a9999410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf9a999941dbff7f3f9899f9c0a799993fcdcc40420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bfcdcc4042a799993f9999f9c08799993f9a9999410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf9a9999418799993f9a99e9c10f00803fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9a99e9410f00803f9899f9c00d00803fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9899f9400d00803f9a99e9c1a999993fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9a99e941a999993f9899f9c0a799993fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9899f940a799993f00006041a599993ff1cc4cbe0000803f000000000000000000000000000000000000803f000080bff1cc4cbea599993f000060410b00803ff1cc4cbe0000803f000000000000000000000000000000000000803f000080bff1cc4cbe0b00803f01006041d7ff7f3f9a9999410000803f000000000000000000000000000000000000803f000080bf9a999941d7ff7f3f010060418599993f9a9999410000803f000000000000000000000000000000000000803f000080bf9a9999418599993f9699f9c00300e840cccc40420000803f974129b4bf3d8db2bf3d8d329741a91b0000803f000080bfcccc40420000e8409799f9c0fbffe740989999410000803f974129b4bf3d8db2bf3d8d329741a91b0000803f000080bf98999941f8ffe740000060410300e840e1ec11b50000803f000000000000000000000000000000000000803f000080bfe1ec11b50300e840000060410300e84024cd4cbe0000803f000000000000000000000000000000000000803f000080bf24cd4cbe0300e8409a99e9c1a999993fcdcc4042e617fd27964129350000803f000080bf00000000e617fd27000080bf9a99e941aa98993f9899f9c0a799993fcdcc4042ecd13d28964129350000803f000080bf96412992ecd13d28000080bf9899f940a898993f9a99e9c10400e840cccc4042ecd13d28964129350000803f000080bf96412992ecd13d28000080bf9a99e941c4ffe7409699f9c00300e840cccc4042e6177d28964129350000803f000080bf96412992e6177d28000080bf9699f940c3ffe7409a99e9c10400e84007cd4cbe000080bf00000000000000000000000000000000000080bf000080bf07cd4c3e0400e8409a99e9c10400e840cccc4042000080bf00000000000000000000000000000000000080bf000080bfcccc40c20400e840000060410300e84024cd4cbe14da2bb243e006b4000080bf0000803f0000000014da2bb2000080bf000060410300e8409a99e9c10400e84007cd4cbe14da2bb243e006b4000080bf0000803f0000000014da2bb2000080bf9a99e9c10400e8409799f9c0fbffe74098999941d1e33bb4000000290000803f000080bf0f73f825d1e33bb4000080bf9799f940e2ffe74001006041fbffe7409c999941d1e3bbb4964129b50000803f000080bf00000000d1e3bbb4000080bf010060c1e2ffe74001006041fbffe7409c9999410000803f000000000000000000000000000000000000803f000080bf9c999941fbffe74001006041fbffe740000098410000803f000000000000000000000000000000000000803f000080bf00009841fbffe740feffffc0a799993f000040420000000000000000000080bf0000803f0000000000000000000080bffeffffc0a799993f0000e8c1a999993f000040420000000000000000000080bf0000803f0000000000000000000080bf0000e8c1a999993ffeffffc00300e840000040420000000000000000000080bf0000803f0000000000000000000080bffeffffc00300e8400000e8c10400e840000040420000000000000000000080bf0000803f0000000000000000000080bf0000e8c10400e8400000e8c1a999993f000040420000803f000000000000000000000000000000000000803f000080bf00004042a999993f0000e8c1a999993fff47edb30000803f000000000000000000000000000000000000803f000080bfff47edb3a999993f0000e8c10400e840000040420000803f000000000000000000000000000000000000803f000080bf000040420400e8400000e8c10400e840e1cdedb30000803f000000000000000000000000000000000000803f000080bfe1cdedb30400e8400000e8c1a999993fff47edb3d3f22c32fe08312e0000803f000080bffe083115d3f22c32000080bf0000e841a999993f00006041a599993f25dc11b5d3f22c32ac07312e0000803f000080bfac073115d3f22c32000080bf000060c1a599993f0000e8c10400e840e1cdedb3d3f22c32ac07312e0000803f000080bfac073115d3f22c32000080bf0000e8410400e840000060410300e840e1ec11b5d3f22c325906312e0000803f000080bf59063115d3f22c32000080bf000060c10300e840ffffffc08799993f00009841000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000098c18799993ffeffffc0a799993f00004042000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000040c2a799993fffffffc0fbffe74000009841000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000098c1fbffe740feffffc00300e84000004042000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000040c20300e840010060418599993f000098410000000000000000000080bf0000803f0000000000000000000080bf010060418599993fffffffc08799993f000098410000000000000000000080bf0000803f0000000000000000000080bfffffffc08799993f01006041fbffe740000098410000000000000000000080bf0000803f0000000000000000000080bf01006041fbffe740ffffffc0fbffe740000098410000000000000000000080bf0000803f0000000000000000000080bfffffffc0fbffe740010060418599993f000098418c2e3a320000803f369457340000803f8c2e3ab200000000000080bf010060410000984100006041a599993f25dc11b5c4583c320000803f52bc57340000803fc4583cb200000000000080bf00006041134212b5ffffffc08799993f00009841cff872330000803f6c1d91330000803fcff872b36c1d111c000080bfffffffc0000098410000e8c1a999993fff47edb32425db330000803f6de4d7330000803f2425dbb36de4571c000080bf0000e8c16f77f0b30000e8c1a999993f00004042b76ddb330000803fcb3d8db30000803fb76ddbb3cb3d0d9c000080bf0000e8c100004042feffffc0a799993f00004042310c43320000803fcb3d0db40000803f310c43b200000000000080bffeffffc000004042
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: -7.6, y: 3.6249998, z: 24}
-    m_Extent: {x: 21.6, y: 3.6250021, z: 24.2}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    serializedVersion: 2
-    offset: 0
-    size: 0
-    path: 
 --- !u!1 &1668691524
 GameObject:
   m_ObjectHideFlags: 0
@@ -61505,6 +62208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1668691525}
   - component: {fileID: 1668691526}
+  - component: {fileID: 1668691527}
   m_Layer: 0
   m_Name: Cast Iron  Fence
   m_TagString: Untagged
@@ -61578,6 +62282,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1668691527
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668691524}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1669397309
 GameObject:
   m_ObjectHideFlags: 0
@@ -61588,6 +62305,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1669397310}
   - component: {fileID: 1669397311}
+  - component: {fileID: 1669397312}
   m_Layer: 0
   m_Name: Cast Iron  Fence (29)
   m_TagString: Untagged
@@ -61661,6 +62379,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1669397312
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1669397309}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1684265377
 GameObject:
   m_ObjectHideFlags: 0
@@ -61671,6 +62402,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1684265378}
   - component: {fileID: 1684265379}
+  - component: {fileID: 1684265380}
   m_Layer: 0
   m_Name: Cast Iron  Fence (64)
   m_TagString: Untagged
@@ -61744,6 +62476,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1684265380
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1684265377}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1687258581
 GameObject:
   m_ObjectHideFlags: 0
@@ -62517,6 +63262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713234314}
   - component: {fileID: 1713234315}
+  - component: {fileID: 1713234316}
   m_Layer: 0
   m_Name: Cast Iron  Fence (67)
   m_TagString: Untagged
@@ -62590,6 +63336,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1713234316
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713234313}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1714636500
 GameObject:
   m_ObjectHideFlags: 0
@@ -62600,6 +63359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1714636501}
   - component: {fileID: 1714636502}
+  - component: {fileID: 1714636503}
   m_Layer: 0
   m_Name: Cast Iron  Fence (71)
   m_TagString: Untagged
@@ -62673,6 +63433,213 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1714636503
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714636500}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
+--- !u!43 &1715406331
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pb_Mesh28668
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 96
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 50
+    localAABB:
+      m_Center: {x: -7.6, y: 3.6249998, z: 24}
+      m_Extent: {x: 21.6, y: 3.6250021, z: 24.2}
+  - serializedVersion: 2
+    firstByte: 192
+    indexCount: 90
+    topology: 0
+    baseVertex: 0
+    firstVertex: 50
+    vertexCount: 44
+    localAABB:
+      m_Center: {x: -7.6, y: 4.1249995, z: 24}
+      m_Extent: {x: 21.6, y: 3.1250021, z: 24.2}
+  - serializedVersion: 2
+    firstByte: 372
+    indexCount: 30
+    topology: 0
+    baseVertex: 0
+    firstVertex: 94
+    vertexCount: 20
+    localAABB:
+      m_Center: {x: -7.4999995, y: 4.225, z: 24}
+      m_Extent: {x: 21.5, y: 3.0250022, z: 24}
+  - serializedVersion: 2
+    firstByte: 432
+    indexCount: 12
+    topology: 0
+    baseVertex: 0
+    firstVertex: 114
+    vertexCount: 6
+    localAABB:
+      m_Center: {x: -7.4999995, y: 1.1999997, z: 24}
+      m_Extent: {x: 21.5, y: 0.0000021457672, z: 24}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a0009000b000a000c000d000e000d000f000e00100011001200110013001200140015001600150017001600180019001a0019001b001a001c001d001e001d001f001e00190020001b00200021001b0022001c0023001c001e0023002000240021002400250021002600220027002200230027002400280025002800290025002a002b002c002b0027002c0028002d0029002d002e0029002f003000310030002c0031003200330034003300350034003600370038003700390038003a003b003c003b003d003c003e003f0040003f0041004000420043004400430045004400460047004800470049004800350033004a0033004b004a00320034004c0034004d004c00440045004e0045004f004e0035004a0050004a00510050005200530054005300550054004000410056004100570056003c003d0058003d0059005800380039005a0039005b005a004d0034005c0034005d005c005e005f0060005f00610060006200630064006300650064006600670068006700690068006a006b006c006b006d006c006e006f0070006f0071007000720073007400730075007400740075007600770074007600
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 120
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 5760
+    _typelessdata: 01006041387b24b6000098410000803f00000000369457b336945733000000000000803f000080bf00009841387b24b6000060418f09b735e1ec11b50000803f00000000369457b336945733000000000000803f000080bf39d32a348f09b73501006041d7ff7f3f000098410000803f00000000369457b336945733000000000000803f000080bf00009841d7ff7f3f000060410b00803fe1ec11b50000803f00000000369457b336945733000000000000803f000080bf39d32a340b00803fffffffc05a9e15b60000984100000000000000000000803f000080bf0000000000000000000080bfffffff405a9e15b601006041387b24b60000984100000000000000000000803f000080bf0000000000000000000080bf010060c1387b24b6ffffffc0dbff7f3f0000984100000000000000000000803f000080bf0000000000000000000080bfffffff40dbff7f3f01006041d7ff7f3f0000984100000000000000000000803f000080bf0000000000000000000080bf010060c1d7ff7f3f000060418f09b735e1ec11b5d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf000060418f09b7350000e8c12223f135e1cdedb3d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf0000e8c12223f135000060410b00803fe1ec11b5d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf000060410b00803f0000e8c10f00803fe1cdedb3d2f22cb200000000000080bf0000803f00000000d2f22cb2000080bf0000e8c10f00803f0000e8c12223f135e1cdedb3000080bf00000000000000000000000000000000000080bf000080bfe1cded332223f1350000e8c12223f13500004042000080bf00000000000000000000000000000000000080bf000080bf000040c22223f1350000e8c10f00803fe1cdedb3000080bf00000000000000000000000000000000000080bf000080bfe1cded330f00803f0000e8c10f00803f00004042000080bf00000000000000000000000000000000000080bf000080bf000040c20f00803ffeffffc04bc3d435000040420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000040424bc3d435ffffffc05a9e15b6000098410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000098415a9e15b6feffffc00d00803f000040420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf000040420d00803fffffffc0dbff7f3f000098410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf00009841dbff7f3f0000e8c12223f1350000404200000000000000000000803f000080bf0000000000000000000080bf0000e8412223f135feffffc04bc3d4350000404200000000000000000000803f000080bf0000000000000000000080bffeffff404bc3d4350000e8c10f00803f0000404200000000000000000000803f000080bf0000000000000000000080bf0000e8410f00803ffeffffc00d00803f0000404200000000000000000000803f000080bf0000000000000000000080bffeffff400d00803f000060410b00803fe1ec11b5fa823eb2000080bf00000000000080bffa823e3200000000000080bf000060c1e1ec11b50000e8c10f00803fe1cdedb314123eb2000080bf5ea1bd31000080bf14123e3200000000000080bf0000e841e1cdedb3000060410b00803ff1cc4cbe14123eb2000080bf5ea1bd31000080bf14123e3200000000000080bf000060c1f1cc4cbe9a99e9c10f00803fd4cc4cbe2fa13db2000080bf5ea13d32000080bf2fa13d3200000000000080bf9a99e941d4cc4cbe0000e8c10400e840e1cdedb3fa823e320000803ffa823eb20000803ffa823eb200000000000080bf0000e8c1584e02b3000060410300e840e1ec11b515123e320000803ffa82beb10000803f15123eb2fa82be18000080bf0000604115b0f8b49a99e9c10400e84007cd4cbe15123e320000803ffa82beb10000803f15123eb2fa82be18000080bf9a99e9c102cd4cbe000060410300e84024cd4cbe30a13d320000803f000000000000803f30a13db200000000000080bf000060411fcd4cbe0000e8c10f00803f0000404200000000000080bf00000000000080bf0000000000000000000080bf0000e841000040429a99e9c10f00803fcdcc404200000000000080bf00000000000080bf0000000000000000000080bf9a99e941cdcc40420000e8c10400e84000004042000000000000803f000000000000803f0000000000000000000080bf0000e8c1000040429a99e9c10400e840cccc4042000000000000803f000000000000803f0000000000000000000080bf9a99e9c1cccc4042feffffc00d00803f00004042893941b2000080bf0063e9ae000080bf8939413200000000000080bffeffff40000040429899f9c00d00803fcdcc4042e1663fb2000080bfa5663f32000080bfe1663f3200000000000080bf9899f940cdcc4042feffffc00300e84000004042310cc3320000803f250dc3b20000803f310cc3b200000000000080bffeffffc0000040429699f9c00300e840cccc40428839c1320000803f405569af0000803f8839c1b200000000000080bf9699f9c0cccc4042ffffffc0dbff7f3f00009841ff080bb4000080bfd4080b34000080bfff080b3400000000000080bfffffff40000098419999f9c0dbff7f3f9a999941ff080bb4000080bfd4080b34000080bfff080b3400000000000080bf9999f9409a999941ffffffc0fbffe740000098411a3d0d340000803fcb3d0db40000803f1a3d0db400000000000080bf000000c100009841feffffc00300e840000040421a3d0d340000803fcb3d0db40000803f1a3d0db4c03d0d9d000080bf000000c1000040429799f9c0fbffe740989999411a3d0d340000803fcb3d0db40000803f1a3d0db4c03d0d9d000080bf9999f9c09899994101006041d7ff7f3f000098412e093bb2000080bf512eba31000080bf2e093b3200000000000080bf010060c10000984101006041d7ff7f3f9a999941d0e33bb2000080bf00000000000080bfd0e33b3200000000000080bf010060c19a99994101006041fbffe74000009841000000000000803f000000000000803f0000000000000000000080bf0100604100009841ffffffc0fbffe74000009841000000000000803f000000000000803f0000000000000000000080bfffffffc00000984101006041fbffe7409c999941000000000000803f000000000000803f0000000000000000000080bf010060419c99994101006041d7ff7f3f000098410000803f00000000369457b336945733000000000000803f000080bf00009841d7ff7f3f000060410b00803fe1ec11b50000803fc8eb0c24369457b336945733000000000000803f000080bf39d32a340b00803f010060418599993f000098410000803fc8eb0c24369457b336945733000000000000803f000080bf000098418599993f00006041a599993f25dc11b50000803fc8eb8c24369457b336945733c8eb8c8c0000803f000080bf29162b34a599993f9999f9c0dbff7f3f9a99994100000000000000000000803f000080bf0000000000000000000080bf9999f940dbff7f3f01006041d7ff7f3f9a99994100000000000000000000803f000080bf0000000000000000000080bf010060c1d7ff7f3f9999f9c08799993f9a99994100000000000000000000803f000080bf0000000000000000000080bf9999f9408799993f010060418599993f9a99994100000000000000000000803f000080bf0000000000000000000080bf010060c18599993f000060410b00803ff1cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf000060410b00803f9a99e9c10f00803fd4cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf9a99e9c10f00803f00006041a599993ff1cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf00006041a599993f9a99e9c1a999993fd4cc4cbe12da2bb200000000000080bf0000803f0000000012da2bb2000080bf9a99e9c1a999993f9a99e9c10f00803fd4cc4cbe000080bf00000000000000000000000000000000000080bf000080bfd4cc4c3e0f00803f9a99e9c10f00803fcdcc4042000080bf00000000000000000000000000000000000080bf000080bfcdcc40c20f00803f9a99e9c1a999993fd4cc4cbe000080bf00000000000000000000000000000000000080bf000080bfd4cc4c3ea999993f9a99e9c1a999993fcdcc4042000080bf00000000000000000000000000000000000080bf000080bfcdcc40c2a999993f9899f9c00d00803fcdcc40420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bfcdcc40420d00803f9999f9c0dbff7f3f9a9999410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf9a999941dbff7f3f9899f9c0a799993fcdcc40420000803f00000000cb3d8db2cb3d8d32000000000000803f000080bfcdcc4042a799993f9999f9c08799993f9a9999410000803f00000000cb3d8db2cb3d8d32000000000000803f000080bf9a9999418799993f9a99e9c10f00803fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9a99e9410f00803f9899f9c00d00803fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9899f9400d00803f9a99e9c1a999993fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9a99e941a999993f9899f9c0a799993fcdcc404200000000000000000000803f000080bf0000000000000000000080bf9899f940a799993f00006041a599993ff1cc4cbe0000803f000000000000000000000000000000000000803f000080bff1cc4cbea599993f000060410b00803ff1cc4cbe0000803f000000000000000000000000000000000000803f000080bff1cc4cbe0b00803f01006041d7ff7f3f9a9999410000803f000000000000000000000000000000000000803f000080bf9a999941d7ff7f3f010060418599993f9a9999410000803f000000000000000000000000000000000000803f000080bf9a9999418599993f9699f9c00300e840cccc40420000803f974129b4bf3d8db2bf3d8d329741a91b0000803f000080bfcccc40420000e8409799f9c0fbffe740989999410000803f974129b4bf3d8db2bf3d8d329741a91b0000803f000080bf98999941f8ffe740000060410300e840e1ec11b50000803f000000000000000000000000000000000000803f000080bfe1ec11b50300e840000060410300e84024cd4cbe0000803f000000000000000000000000000000000000803f000080bf24cd4cbe0300e8409a99e9c1a999993fcdcc4042e617fd27964129350000803f000080bf00000000e617fd27000080bf9a99e941aa98993f9899f9c0a799993fcdcc4042ecd13d28964129350000803f000080bf96412992ecd13d28000080bf9899f940a898993f9a99e9c10400e840cccc4042ecd13d28964129350000803f000080bf96412992ecd13d28000080bf9a99e941c4ffe7409699f9c00300e840cccc4042e6177d28964129350000803f000080bf96412992e6177d28000080bf9699f940c3ffe7409a99e9c10400e84007cd4cbe000080bf00000000000000000000000000000000000080bf000080bf07cd4c3e0400e8409a99e9c10400e840cccc4042000080bf00000000000000000000000000000000000080bf000080bfcccc40c20400e840000060410300e84024cd4cbe14da2bb243e006b4000080bf0000803f0000000014da2bb2000080bf000060410300e8409a99e9c10400e84007cd4cbe14da2bb243e006b4000080bf0000803f0000000014da2bb2000080bf9a99e9c10400e8409799f9c0fbffe74098999941d1e33bb4000000290000803f000080bf0f73f825d1e33bb4000080bf9799f940e2ffe74001006041fbffe7409c999941d1e3bbb4964129b50000803f000080bf00000000d1e3bbb4000080bf010060c1e2ffe74001006041fbffe7409c9999410000803f000000000000000000000000000000000000803f000080bf9c999941fbffe74001006041fbffe740000098410000803f000000000000000000000000000000000000803f000080bf00009841fbffe740feffffc0a799993f000040420000000000000000000080bf0000803f0000000000000000000080bffeffffc0a799993f0000e8c1a999993f000040420000000000000000000080bf0000803f0000000000000000000080bf0000e8c1a999993ffeffffc00300e840000040420000000000000000000080bf0000803f0000000000000000000080bffeffffc00300e8400000e8c10400e840000040420000000000000000000080bf0000803f0000000000000000000080bf0000e8c10400e8400000e8c1a999993f000040420000803f000000000000000000000000000000000000803f000080bf00004042a999993f0000e8c1a999993fff47edb30000803f000000000000000000000000000000000000803f000080bfff47edb3a999993f0000e8c10400e840000040420000803f000000000000000000000000000000000000803f000080bf000040420400e8400000e8c10400e840e1cdedb30000803f000000000000000000000000000000000000803f000080bfe1cdedb30400e8400000e8c1a999993fff47edb3d3f22c32fe08312e0000803f000080bffe083115d3f22c32000080bf0000e841a999993f00006041a599993f25dc11b5d3f22c32ac07312e0000803f000080bfac073115d3f22c32000080bf000060c1a599993f0000e8c10400e840e1cdedb3d3f22c32ac07312e0000803f000080bfac073115d3f22c32000080bf0000e8410400e840000060410300e840e1ec11b5d3f22c325906312e0000803f000080bf59063115d3f22c32000080bf000060c10300e840ffffffc08799993f00009841000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000098c18799993ffeffffc0a799993f00004042000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000040c2a799993fffffffc0fbffe74000009841000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000098c1fbffe740feffffc00300e84000004042000080bf00000000cb3d8d32cb3d8db200000000000080bf000080bf000040c20300e840010060418599993f000098410000000000000000000080bf0000803f0000000000000000000080bf010060418599993fffffffc08799993f000098410000000000000000000080bf0000803f0000000000000000000080bfffffffc08799993f01006041fbffe740000098410000000000000000000080bf0000803f0000000000000000000080bf01006041fbffe740ffffffc0fbffe740000098410000000000000000000080bf0000803f0000000000000000000080bfffffffc0fbffe740010060418599993f000098418c2e3a320000803f369457340000803f8c2e3ab200000000000080bf010060410000984100006041a599993f25dc11b5c4583c320000803f52bc57340000803fc4583cb200000000000080bf00006041134212b5ffffffc08799993f00009841cff872330000803f6c1d91330000803fcff872b36c1d111c000080bfffffffc0000098410000e8c1a999993fff47edb32425db330000803f6de4d7330000803f2425dbb36de4571c000080bf0000e8c16f77f0b30000e8c1a999993f00004042b76ddb330000803fcb3d8db30000803fb76ddbb3cb3d0d9c000080bf0000e8c100004042feffffc0a799993f00004042310c43320000803fcb3d0db40000803f310c43b200000000000080bffeffffc000004042
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -7.6, y: 3.6249998, z: 24}
+    m_Extent: {x: 21.6, y: 3.6250021, z: 24.2}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &1717752720
 GameObject:
   m_ObjectHideFlags: 0
@@ -62683,6 +63650,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1717752721}
   - component: {fileID: 1717752722}
+  - component: {fileID: 1717752723}
   m_Layer: 0
   m_Name: Cast Iron  Fence (16)
   m_TagString: Untagged
@@ -62756,6 +63724,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1717752723
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1717752720}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1721858274
 Mesh:
   m_ObjectHideFlags: 0
@@ -62930,6 +63911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1729319558}
   - component: {fileID: 1729319559}
+  - component: {fileID: 1729319560}
   m_Layer: 0
   m_Name: Cast Iron  Fence (52)
   m_TagString: Untagged
@@ -63003,6 +63985,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1729319560
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729319557}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1739328986
 GameObject:
   m_ObjectHideFlags: 0
@@ -63013,6 +64008,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1739328987}
   - component: {fileID: 1739328988}
+  - component: {fileID: 1739328989}
   m_Layer: 0
   m_Name: Cast Iron  Fence (31)
   m_TagString: Untagged
@@ -63086,6 +64082,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1739328989
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739328986}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1752211604
 GameObject:
   m_ObjectHideFlags: 0
@@ -63999,7 +65008,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1661708791}
+  m_Mesh: {fileID: 1715406331}
 --- !u!33 &1760372099
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -64007,7 +65016,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760372097}
-  m_Mesh: {fileID: 1661708791}
+  m_Mesh: {fileID: 1715406331}
 --- !u!23 &1760372100
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -65226,8 +66235,8 @@ MonoBehaviour:
     m_AreaError: 15
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
-  m_Mesh: {fileID: 1661708791}
-  m_VersionIndex: 1269
+  m_Mesh: {fileID: 1715406331}
+  m_VersionIndex: 1272
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -65239,12 +66248,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760372097}
-  m_LocalRotation: {x: 0, y: -0.0000000050334643, z: 0.0000000050334643, w: 1}
-  m_LocalPosition: {x: 40, y: -10.25, z: 48}
+  m_LocalRotation: {x: -0, y: -0.0000000050334643, z: 0.0000000050334643, w: 1}
+  m_LocalPosition: {x: 83.00383, y: 17.010448, z: -39.28714}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 545331748}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1760716968
 GameObject:
@@ -65297,6 +66306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761757781}
   - component: {fileID: 1761757782}
+  - component: {fileID: 1761757783}
   m_Layer: 0
   m_Name: Cast Iron  Fence (83)
   m_TagString: Untagged
@@ -65370,6 +66380,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1761757783
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761757780}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1765622268
 Mesh:
   m_ObjectHideFlags: 0
@@ -65708,6 +66731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1791423402}
   - component: {fileID: 1791423403}
+  - component: {fileID: 1791423404}
   m_Layer: 0
   m_Name: Cast Iron  Fence (73)
   m_TagString: Untagged
@@ -65781,6 +66805,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1791423404
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791423401}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1806462183
 Mesh:
   m_ObjectHideFlags: 0
@@ -66149,6 +67186,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1813661579}
   - component: {fileID: 1813661580}
+  - component: {fileID: 1813661581}
   m_Layer: 0
   m_Name: Cast Iron  Fence (69)
   m_TagString: Untagged
@@ -66222,6 +67260,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1813661581
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1813661578}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1816944497
 GameObject:
   m_ObjectHideFlags: 0
@@ -66232,6 +67283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1816944498}
   - component: {fileID: 1816944499}
+  - component: {fileID: 1816944500}
   m_Layer: 0
   m_Name: Cast Iron  Fence (10)
   m_TagString: Untagged
@@ -66305,6 +67357,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1816944500
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1816944497}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1823068657
 GameObject:
   m_ObjectHideFlags: 0
@@ -66971,7 +68036,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27116
+  m_Name: pb_Mesh27200
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -67467,6 +68532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1855281744}
   - component: {fileID: 1855281745}
+  - component: {fileID: 1855281746}
   m_Layer: 0
   m_Name: Cast Iron  Fence (51)
   m_TagString: Untagged
@@ -67540,6 +68606,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1855281746
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855281743}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1860832361
 GameObject:
   m_ObjectHideFlags: 0
@@ -75584,6 +76663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1893970640}
   - component: {fileID: 1893970641}
+  - component: {fileID: 1893970642}
   m_Layer: 0
   m_Name: Cast Iron  Fence (13)
   m_TagString: Untagged
@@ -75657,6 +76737,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1893970642
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893970639}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1898527414
 Mesh:
   m_ObjectHideFlags: 0
@@ -75831,6 +76924,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1913614447}
   - component: {fileID: 1913614448}
+  - component: {fileID: 1913614449}
   m_Layer: 0
   m_Name: Cast Iron  Fence (66)
   m_TagString: Untagged
@@ -75904,6 +76998,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1913614449
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1913614446}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1916205240
 Mesh:
   m_ObjectHideFlags: 0
@@ -76282,6 +77389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1929045177}
   - component: {fileID: 1929045178}
+  - component: {fileID: 1929045179}
   m_Layer: 0
   m_Name: Cast Iron  Fence (59)
   m_TagString: Untagged
@@ -76355,6 +77463,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1929045179
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1929045176}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1929954136
 Mesh:
   m_ObjectHideFlags: 0
@@ -76693,6 +77814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1939487213}
   - component: {fileID: 1939487214}
+  - component: {fileID: 1939487215}
   m_Layer: 0
   m_Name: Cast Iron  Fence (22)
   m_TagString: Untagged
@@ -76766,6 +77888,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1939487215
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939487212}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &1941968400
 GameObject:
   m_ObjectHideFlags: 0
@@ -76776,6 +77911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1941968401}
   - component: {fileID: 1941968402}
+  - component: {fileID: 1941968403}
   m_Layer: 0
   m_Name: Cast Iron  Fence (76)
   m_TagString: Untagged
@@ -76849,6 +77985,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1941968403
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1941968400}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1951675305
 Mesh:
   m_ObjectHideFlags: 0
@@ -77023,6 +78172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1956394708}
   - component: {fileID: 1956394709}
+  - component: {fileID: 1956394710}
   m_Layer: 0
   m_Name: Cast Iron  Fence (37)
   m_TagString: Untagged
@@ -77096,6 +78246,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1956394710
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1956394707}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1963165486
 Mesh:
   m_ObjectHideFlags: 0
@@ -77311,6 +78474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1966338703}
   - component: {fileID: 1966338704}
+  - component: {fileID: 1966338705}
   m_Layer: 0
   m_Name: Cast Iron  Fence (12)
   m_TagString: Untagged
@@ -77384,6 +78548,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1966338705
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966338702}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &1966502274
 Mesh:
   m_ObjectHideFlags: 0
@@ -79798,6 +80975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1994321379}
   - component: {fileID: 1994321380}
+  - component: {fileID: 1994321381}
   m_Layer: 0
   m_Name: Cast Iron  Fence (46)
   m_TagString: Untagged
@@ -79871,6 +81049,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &1994321381
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994321378}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &2005524557
 Mesh:
   m_ObjectHideFlags: 0
@@ -80209,6 +81400,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2017756662}
   - component: {fileID: 2017756663}
+  - component: {fileID: 2017756664}
   m_Layer: 0
   m_Name: Cast Iron  Fence (2)
   m_TagString: Untagged
@@ -80282,6 +81474,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2017756664
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017756661}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2024805969
 GameObject:
   m_ObjectHideFlags: 0
@@ -81084,6 +82289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2033223749}
   - component: {fileID: 2033223750}
+  - component: {fileID: 2033223751}
   m_Layer: 0
   m_Name: Cast Iron  Fence (27)
   m_TagString: Untagged
@@ -81157,6 +82363,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2033223751
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033223748}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2037117963
 GameObject:
   m_ObjectHideFlags: 0
@@ -82747,6 +83966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2118140184}
   - component: {fileID: 2118140185}
+  - component: {fileID: 2118140186}
   m_Layer: 0
   m_Name: Cast Iron  Fence (20)
   m_TagString: Untagged
@@ -82820,6 +84040,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2118140186
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118140183}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2118278420
 GameObject:
   m_ObjectHideFlags: 0
@@ -83336,6 +84569,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2123740384}
   - component: {fileID: 2123740385}
+  - component: {fileID: 2123740386}
   m_Layer: 0
   m_Name: Cast Iron  Fence (68)
   m_TagString: Untagged
@@ -83409,6 +84643,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2123740386
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2123740383}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2126732296
 GameObject:
   m_ObjectHideFlags: 0
@@ -83419,6 +84666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2126732297}
   - component: {fileID: 2126732298}
+  - component: {fileID: 2126732299}
   m_Layer: 0
   m_Name: Cast Iron  Fence (82)
   m_TagString: Untagged
@@ -83492,6 +84740,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2126732299
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126732296}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2135567312
 GameObject:
   m_ObjectHideFlags: 0
@@ -83502,6 +84763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2135567313}
   - component: {fileID: 2135567314}
+  - component: {fileID: 2135567315}
   m_Layer: 0
   m_Name: Cast Iron  Fence (47)
   m_TagString: Untagged
@@ -83575,6 +84837,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2135567315
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2135567312}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2138117924
 GameObject:
   m_ObjectHideFlags: 0
@@ -83585,6 +84860,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2138117925}
   - component: {fileID: 2138117926}
+  - component: {fileID: 2138117927}
   m_Layer: 0
   m_Name: Cast Iron  Fence (1)
   m_TagString: Untagged
@@ -83658,6 +84934,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2138117927
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138117924}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!1 &2138677391
 GameObject:
   m_ObjectHideFlags: 0
@@ -84368,6 +85657,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2139702425}
   - component: {fileID: 2139702426}
+  - component: {fileID: 2139702427}
   m_Layer: 0
   m_Name: Cast Iron  Fence (53)
   m_TagString: Untagged
@@ -84441,6 +85731,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &2139702427
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2139702424}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.8499999, y: 1.4145306, z: 0.2}
+  m_Center: {x: 0, y: -0.04429716, z: 0}
 --- !u!43 &2144202944
 Mesh:
   m_ObjectHideFlags: 0
