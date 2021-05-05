@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 1502
+  controlID: 2844
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1503
+  controlID: 2845
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1504
+  controlID: 2846
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1505
+  controlID: 2847
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,9 +424,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff886900000a700000
+      m_SelectedIDs: 4ee8ffff
+      m_LastClickedID: -6066
+      m_ExpandedIDs: 50fbffff52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -486,9 +486,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.08107, y: 6.39176, z: 45.08699}
+    m_Target: {x: 712.67975, y: 361.79288, z: 42.056824}
     speed: 2
-    m_Value: {x: -3.08107, y: 6.39176, z: 45.08699}
+    m_Value: {x: 712.67975, y: 361.79288, z: 42.056824}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -535,13 +535,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.24280803, y: 0.3610391, z: -0.0979328, w: -0.8950538}
+    m_Target: {x: -0.02189719, y: 0.0039064037, z: -0.00007666504, w: -0.9997615}
     speed: 2
-    m_Value: {x: -0.24191476, y: 0.36907673, z: -0.10011323, w: -0.89176065}
+    m_Value: {x: -0.02189719, y: 0.0039064037, z: -0.00007666504, w: -0.9997615}
   m_Size:
-    m_Target: 19.142475
+    m_Target: 513.05444
     speed: 2
-    m_Value: 19.142475
+    m_Value: 513.05444
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -863,13 +863,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials/High Rise
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials/High Rise
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\GitHub\Project Cataclysm\Project-Cataclysm\Project
     Cataclysm
@@ -877,9 +877,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 34740000
-    m_LastClickedID: 29748
-    m_ExpandedIDs: 0000000076720000787200007a72000000ca9a3b
+    m_SelectedIDs: e2720000
+    m_LastClickedID: 29410
+    m_ExpandedIDs: 00000000e2720000e4720000e672000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -907,7 +907,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000076720000787200007a72000000ca9a3b
+    m_ExpandedIDs: 00000000e2720000e4720000e672000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1015,7 +1015,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 28898
+  m_LastSelectedObjectID: -6066
 --- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
