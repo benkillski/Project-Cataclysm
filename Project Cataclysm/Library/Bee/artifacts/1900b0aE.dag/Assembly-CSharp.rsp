@@ -335,13 +335,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Billboard.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/EnemyTypes.cs"
 "Assets/Scripts/GameManager.cs"
-"Assets/Scripts/MuzzleFlash.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/PlayerLook.cs"
 "Assets/Scripts/RotateTowardsCamera.cs"
 "Assets/Scripts/SceneIndexes.cs"
-"Assets/Weapon.cs"
+"Assets/Scripts/Weapon.cs"
+"Assets/Scripts/WeaponTypes.cs"
 -langversion:8.0
 
 /deterministic
