@@ -94,7 +94,7 @@ public class Enemy : MonoBehaviour
         if(!alreadyAttacking)
         {
             //Attack code here
-            
+            Debug.Log("Enemy Attack");
             //
 
             alreadyAttacking = true;
