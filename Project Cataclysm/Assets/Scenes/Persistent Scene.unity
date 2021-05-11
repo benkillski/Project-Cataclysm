@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 220885629}
   - component: {fileID: 220885628}
+  - component: {fileID: 220885630}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -152,6 +153,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a793bba4ef8f39d4182dcd2dfe55d4ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  loadingScreen: {fileID: 0}
+  bar: {fileID: 0}
 --- !u!4 &220885629
 Transform:
   m_ObjectHideFlags: 0
@@ -166,6 +169,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220885630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220885627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97693cfec1ad90d48a1867ca4416d9e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waves:
+  - name: Wave 1
+    enemy: {fileID: 4104946128628626835, guid: dbf65a7855a33e74b99f0380699172ce, type: 3}
+    count: 5
+    spawnRate: 1
+  timeBetweenWaves: 5
+  waveCountdown: 0
 --- !u!1 &1072721529
 GameObject:
   m_ObjectHideFlags: 0

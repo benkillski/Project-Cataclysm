@@ -341,9 +341,11 @@
 "Assets/Scripts/EnemyTypes.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PlayerLook.cs"
 "Assets/Scripts/RotateTowardsCamera.cs"
 "Assets/Scripts/SceneIndexes.cs"
+"Assets/Scripts/WaveSpawner.cs"
 "Assets/Scripts/Weapon.cs"
 "Assets/Scripts/WeaponTypes.cs"
 -langversion:8.0
