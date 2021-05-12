@@ -114,21 +114,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyType: 0
   health: 100
-  agent: {fileID: 4104946128628626845}
-  player: {fileID: 0}
-  whatIsGround:
-    serializedVersion: 2
-    m_Bits: 8
-  whatIsPlayer:
-    serializedVersion: 2
-    m_Bits: 64
-  walkPoint: {x: 0, y: 0, z: 0}
-  walkPointRange: 5
-  timeBetweenAttacks: 0.5
-  sightRange: 20
-  attackRange: 12
-  playerInSightRange: 0
-  playerInAttackRange: 0
 --- !u!195 &4104946128628626845
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -163,3 +148,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a420a0a16ea9204a9bc1ea2e31cdc29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  agent: {fileID: 4104946128628626845}
+  player: {fileID: 0}
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 8
+  whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 64
+  walkPoint: {x: 0, y: 0, z: 0}
+  walkPointRange: 5
+  timeBetweenAttacks: 0.5
+  sightRange: 50
+  attackRange: 2
+  playerInSightRange: 0
+  playerInAttackRange: 0
