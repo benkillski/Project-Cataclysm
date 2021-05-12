@@ -345,6 +345,7 @@
 "Assets/Scripts/PlayerLook.cs"
 "Assets/Scripts/RotateTowardsCamera.cs"
 "Assets/Scripts/SceneIndexes.cs"
+"Assets/Scripts/TestEnemyAI.cs"
 "Assets/Scripts/WaveSpawner.cs"
 "Assets/Scripts/Weapon.cs"
 "Assets/Scripts/WeaponTypes.cs"
