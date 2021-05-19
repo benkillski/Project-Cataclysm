@@ -9,6 +9,11 @@ public class Weapon : MonoBehaviour
     [SerializeField] GameObject muzzleFlashImageObject;
     int weaponDamage;
 
+    [SerializeField] AudioManager audioManager;
+
+    [Header("Weapon Sounds")]
+    public AudioClip pistolShot;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -43,6 +48,8 @@ public class Weapon : MonoBehaviour
 
     void Attack()
     {
+        audioManager.Play("PistolShot");
+
         RaycastHit hit;
         Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit);
         if (hit.transform.tag == "Enemy")
