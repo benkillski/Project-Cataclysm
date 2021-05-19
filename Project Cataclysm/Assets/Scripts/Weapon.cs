@@ -39,7 +39,6 @@ public class Weapon : MonoBehaviour
 
    IEnumerator MuzzleFlash()
     {
-        Debug.Log("Player Attack");
         muzzleFlashImageObject.SetActive(true);
         yield return new WaitForSeconds(0.1f);
         muzzleFlashImageObject.SetActive(false);
@@ -54,10 +53,15 @@ public class Weapon : MonoBehaviour
         Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit);
         if (hit.transform.tag == "Enemy")
         {
-            Enemy enemy = hit.transform.GetComponent<Enemy>();
-            enemy.SetHealth(enemy.GetHeath() - weaponDamage);
+           if(!audioManager.IsPlaying("DamageGrunt"))
+           {
+                audioManager.Play("DamageGrunt");
+
+           }
+           Enemy enemy = hit.transform.GetComponent<Enemy>();
+           enemy.SetHealth(enemy.GetHeath() - weaponDamage);
         }
-    }    
+    } 
 }
 
 
