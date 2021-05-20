@@ -8,6 +8,7 @@ public class TestEnemyAI : MonoBehaviour
     public NavMeshAgent agent;
 
     public Transform player;
+    public LayerMask playerMask;
 
     public LayerMask whatIsGround, whatIsPlayer;
 
@@ -19,6 +20,7 @@ public class TestEnemyAI : MonoBehaviour
     //Attacking
     public float timeBetweenAttacks;
     bool alreadyAttacking;
+    int damageAmount = 20;
 
     //States
     public float sightRange, attackRange;
@@ -81,7 +83,14 @@ public class TestEnemyAI : MonoBehaviour
         {
             //Attack code here
             Debug.Log("Enemy Attack");
-            //
+            RaycastHit hit;
+            Physics.Raycast(transform.position, transform.forward, out hit, 2);
+
+            if(hit.transform.tag == "Player")
+            {
+                PlayerHealth playerHealth = hit.transform.GetComponentInParent<PlayerHealth>();
+                playerHealth.SetPlayerHealth(playerHealth.GetPlayerHealth() - damageAmount);
+            }
 
             alreadyAttacking = true;
             Invoke(nameof(ResetAttack), timeBetweenAttacks);

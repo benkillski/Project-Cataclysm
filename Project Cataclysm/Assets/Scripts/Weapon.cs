@@ -11,9 +11,6 @@ public class Weapon : MonoBehaviour
 
     [SerializeField] AudioManager audioManager;
 
-    [Header("Weapon Sounds")]
-    public AudioClip pistolShot;
-
     // Start is called before the first frame update
     void Start()
     {
