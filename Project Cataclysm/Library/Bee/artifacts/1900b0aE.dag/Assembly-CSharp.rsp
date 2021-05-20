@@ -344,6 +344,7 @@
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PlayerLook.cs"
+"Assets/Scripts/PlayerScore.cs"
 "Assets/Scripts/RotateTowardsCamera.cs"
 "Assets/Scripts/SceneIndexes.cs"
 "Assets/Scripts/Sound.cs"

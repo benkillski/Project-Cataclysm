@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
@@ -19,6 +18,8 @@ public class Enemy : MonoBehaviour
 
     private void Die()
     {
+        PlayerScore playerScore = FindObjectOfType<PlayerScore>();
+        playerScore.SetScore(playerScore.GetScore() + 10);
         Destroy(gameObject);
     }
 
