@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class WaveSpawner : MonoBehaviour
 {
+    [SerializeField] TextMeshProUGUI waveDisplayText;
+
     public enum SpawnState { SPAWNING, WAITING, COUNTING }
 
     [System.Serializable]
@@ -106,6 +109,7 @@ public class WaveSpawner : MonoBehaviour
     IEnumerator SpawnWave(Wave _wave)
     {
         Debug.Log("SPAWNING WAVE " + _wave.name);
+        waveDisplayText.text = "WAVE: " + _wave.name;
         state = SpawnState.SPAWNING;
 
         for(int i = 0; i < _wave.count; i++)
@@ -126,5 +130,4 @@ public class WaveSpawner : MonoBehaviour
         Transform _sp = spawnPoints[Random.Range(0 , spawnPoints.Length)];
         Instantiate(_enemy, _sp.position, _sp.rotation);
     }
-
 }
