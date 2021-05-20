@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float speed = 6f;                  //Movement Speed
     [SerializeField] const float GRAVITY = -9.8f;       //Gravity Rate
     [SerializeField] float jumpHeight = 2f;             //Jump power
+    public bool isMoving;
 
     [Header("Ground Checking")]
     [SerializeField] float groundDistance = 0.4f;       //Distance from origin to the ground
@@ -49,6 +50,11 @@ public class PlayerController : MonoBehaviour
         float x = Input.GetAxis("Horizontal");  //Movement on X Axis (between -1 and 1, -1 is moving left, 0 is not moving, 1 is moving right)
         float z = Input.GetAxis("Vertical");    //Movement on Z Axis (between -1 and 1, -1 is moving back, 0 is not moving, 1 is moving forward)
 
+        if (x != 0 || z != 0)
+            isMoving = true;
+        else
+            isMoving = false;
+
         Vector3 move = transform.right * x + transform.forward * z;     //Combined Movement  
 
 
@@ -73,11 +79,6 @@ public class PlayerController : MonoBehaviour
         velocity.y += GRAVITY * Time.deltaTime;         //Change the player's Y velocity by the rate of Gravity
 
         controller.Move(velocity * Time.deltaTime);     //Moves the player on the Y Axis
-    }
-
-    public Vector3 GetPlayerVelocity()
-    {
-        return velocity;
     }
 
     //Method called when player dies

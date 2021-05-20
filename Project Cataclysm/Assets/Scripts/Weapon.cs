@@ -12,6 +12,8 @@ public class Weapon : MonoBehaviour
 
     [SerializeField] AudioManager audioManager;
 
+    private bool isAttacking;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,37 +30,37 @@ public class Weapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (GetComponent<PlayerController>().GetPlayerVelocity().magnitude != 0)
-        {
-            pistolAnimator.SetBool("isWalking", true);
-        }
-        else
-        {
-            pistolAnimator.SetBool("isWalking", false);
-        }
+        pistolAnimator.SetBool("isWalking", transform.GetComponent<PlayerController>().isMoving);
 
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
-            StartCoroutine(MuzzleFlash());
-            Attack();
+            if(!isAttacking)
+            {
+                StartCoroutine(MuzzleFlash());
+                StartCoroutine(Attack());
+            }
         }
     }
 
    IEnumerator MuzzleFlash()
     {
+        pistolAnimator.SetTrigger("shoot");
         muzzleFlashImageObject.SetActive(true);
         yield return new WaitForSeconds(0.1f);
         muzzleFlashImageObject.SetActive(false);
+        pistolAnimator.SetTrigger("shoot");
         yield return null;
     }
 
-    void Attack()
+    IEnumerator Attack()
     {
-        audioManager.Play("PistolShot");
+        isAttacking = true;
 
+        audioManager.Play("PistolShot");
+   
         RaycastHit hit;
         Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit);
-        if (hit.transform.tag == "Enemy")
+        if (hit.transform != null && hit.transform.tag == "Enemy")
         {
            if(!audioManager.IsPlaying("DamageGrunt"))
            {
@@ -70,8 +72,10 @@ public class Weapon : MonoBehaviour
         else
         {
             Debug.Log("No Enemy Hit");
-            return;
         }
+        yield return new WaitForSeconds(.2f);
+        isAttacking = false;
+        yield return null;
     }
 }
 
