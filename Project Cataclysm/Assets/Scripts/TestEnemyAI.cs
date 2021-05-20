@@ -81,8 +81,6 @@ public class TestEnemyAI : MonoBehaviour
 
         if (!alreadyAttacking)
         {
-            //Attack code here
-            Debug.Log("Enemy Attack");
             RaycastHit hit;
             Physics.Raycast(transform.position, transform.forward, out hit, 2);
 

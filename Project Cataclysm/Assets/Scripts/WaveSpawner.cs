@@ -39,6 +39,9 @@ public class WaveSpawner : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(state);
+
+
         if(state == SpawnState.WAITING)
         {
             if(!EnemyIsAlive())
@@ -87,8 +90,13 @@ public class WaveSpawner : MonoBehaviour
         if (searchCountdown <= 0f)
         {
             searchCountdown = 1f;
-            if (GameObject.FindGameObjectsWithTag("Enemy") == null)
+            /*GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
+            foreach (GameObject go in enemies)
+                Debug.Log(go.name);*/
+
+            if (GameObject.FindGameObjectsWithTag("Enemy").Length == 0)
             {
+                Debug.Log("TEST");
                 return false;
             }
         }

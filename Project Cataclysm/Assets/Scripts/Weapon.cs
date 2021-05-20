@@ -53,10 +53,14 @@ public class Weapon : MonoBehaviour
            if(!audioManager.IsPlaying("DamageGrunt"))
            {
                 audioManager.Play("DamageGrunt");
-
            }
            Enemy enemy = hit.transform.GetComponent<Enemy>();
            enemy.SetHealth(enemy.GetHeath() - weaponDamage);
+        }
+        else
+        {
+            Debug.Log("No Enemy Hit");
+            return;
         }
     } 
 }
