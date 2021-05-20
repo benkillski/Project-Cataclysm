@@ -75,6 +75,11 @@ public class PlayerController : MonoBehaviour
         controller.Move(velocity * Time.deltaTime);     //Moves the player on the Y Axis
     }
 
+    public Vector3 GetPlayerVelocity()
+    {
+        return velocity;
+    }
+
     //Method called when player dies
     /*void KillPlayer()
     {

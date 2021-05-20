@@ -8,6 +8,7 @@ public class Weapon : MonoBehaviour
     public WeaponType weaponType;
     [SerializeField] GameObject muzzleFlashImageObject;
     int weaponDamage;
+    [SerializeField] Animator pistolAnimator;
 
     [SerializeField] AudioManager audioManager;
 
@@ -27,7 +28,16 @@ public class Weapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Mouse0))
+        if (GetComponent<PlayerController>().GetPlayerVelocity().magnitude != 0)
+        {
+            pistolAnimator.SetBool("isWalking", true);
+        }
+        else
+        {
+            pistolAnimator.SetBool("isWalking", false);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             StartCoroutine(MuzzleFlash());
             Attack();
@@ -62,7 +72,7 @@ public class Weapon : MonoBehaviour
             Debug.Log("No Enemy Hit");
             return;
         }
-    } 
+    }
 }
 
 
